@@ -58,6 +58,8 @@ const site = {
   features: {
     search: true,
     rss: true,
+    // Auto-mark posts as "new" if published within this many days (0 to disable)
+    newPostDays: 7,
   },
 
   // --- Tools Page Data ---

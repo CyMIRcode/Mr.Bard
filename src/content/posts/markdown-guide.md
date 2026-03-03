@@ -1,6 +1,6 @@
 ---
 title: Markdown Guide
-createdAt: 2025-01-02
+createdAt: 2026-01-02
 category: technology
 tags: [markdown, tutorial]
 summary: A guide to all supported Markdown features in Breeze theme.
