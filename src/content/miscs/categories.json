@@ -1,25 +1,14 @@
 [
   {
-    "name": "Technology",
-    "slug": "technology",
-    "description": "Articles about web development and programming",
+    "name": "巴德先生故事集",
+    "slug": "MrBard",
+    "description": "巴德先生故事集",
     "icon": "mdi:code-tags"
   },
   {
-    "name": "Design",
-    "slug": "design",
-    "description": "Thoughts on UI/UX and visual design",
+    "name": "News",
+    "slug": "News",
+    "description": "本站新闻",
     "icon": "mdi:palette"
   },
   {
-    "name": "Life",
-    "slug": "life",
-    "description": "Daily life and personal reflections",
-    "icon": "mdi:coffee"
-  },
-  {
-    "name": "Uncategorized",
-    "slug": "uncategorized",
-    "icon": "mdi:folder"
-  }
-]
