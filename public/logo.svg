@@ -1,0 +1,968 @@
+<svg width="128" height="128"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+<style>path {fill-opacity:1; stroke:none;}</style>
+<path d="M 12,1L 11,1L 11,9L 6,9L 6,10L 13,10L 13,9L 12,9Z" style="fill:rgb(238,238,238);"/>
+<path d="M 16,56L 16,53L 19,53L 19,52L 12,52L 12,47L 11,47L 11,52L 8,52L 8,53L 12,53L 12,56L 14,56L 14,55L 15,55L 15,56Z" style="fill:rgb(238,238,238);"/>
+<path d="M 29,29L 29,27L 33,27L 33,26L 28,26L 28,29Z" style="fill:rgb(238,238,238);"/>
+<path d="M 46,25L 44,25L 44,27L 50,27L 50,26L 46,26Z" style="fill:rgb(238,238,238);"/>
+<path d="M 58,104L 57,104L 57,106L 59,106L 59,100L 67,100L 67,99L 58,99Z" style="fill:rgb(238,238,238);"/>
+<path d="M 98,51L 97,51L 97,52L 92,52L 92,53L 106,53L 106,52L 105,52L 105,51L 104,51L 104,52L 102,52L 102,48L 101,48L 101,52L 98,52Z" style="fill:rgb(238,238,238);"/>
+<path d="M 106,13L 102,13L 102,10L 106,10L 106,9L 102,9L 102,6L 105,6L 105,5L 101,5L 101,9L 98,9L 98,10L 99,10L 99,12L 100,12L 100,14L 106,14Z" style="fill:rgb(238,238,238);"/>
+<path d="M 110,99L 101,99L 101,104L 102,104L 102,100L 110,100Z" style="fill:rgb(238,238,238);"/>
+<path d="M 24,44L 23,44L 23,47L 21,47L 21,48L 24,48Z" style="fill:rgb(221,221,221);"/>
+<path d="M 6,69L 3,69L 3,66L 0,66L 0,70L 6,70Z" style="fill:rgb(226,226,226);"/>
+<path d="M 11,18L 11,14L 8,14L 8,18Z" style="fill:rgb(226,226,226);"/>
+<path d="M 8,27L 8,26L 11,26L 11,22L 6,22L 6,23L 7,23L 7,27Z" style="fill:rgb(226,226,226);"/>
+<path d="M 11,61L 11,57L 8,57L 8,61Z" style="fill:rgb(226,226,226);"/>
+<path d="M 16,91L 16,87L 12,87L 12,91Z" style="fill:rgb(226,226,226);"/>
+<path d="M 20,5L 16,5L 16,9L 20,9Z" style="fill:rgb(226,226,226);"/>
+<path d="M 20,69L 20,66L 16,66L 16,69Z" style="fill:rgb(226,226,226);"/>
+<path d="M 20,91L 16,91L 16,95L 20,95Z" style="fill:rgb(226,226,226);"/>
+<path d="M 20,74L 24,74L 24,70L 20,70Z" style="fill:rgb(226,226,226);"/>
+<path d="M 28,74L 25,74L 25,78L 28,78Z" style="fill:rgb(226,226,226);"/>
+<path d="M 50,14L 50,10L 46,10L 46,14Z" style="fill:rgb(226,226,226);"/>
+<path d="M 58,70L 55,70L 55,74L 58,74Z" style="fill:rgb(226,226,226);"/>
+<path d="M 55,87L 55,91L 58,91L 58,87Z" style="fill:rgb(226,226,226);"/>
+<path d="M 55,99L 58,99L 58,96L 55,96Z" style="fill:rgb(226,226,226);"/>
+<path d="M 71,104L 71,100L 68,100L 68,104Z" style="fill:rgb(226,226,226);"/>
+<path d="M 76,26L 80,26L 80,23L 76,23Z" style="fill:rgb(226,226,226);"/>
+<path d="M 78,65L 77,65L 77,66L 76,66L 76,69L 80,69L 80,68L 81,68L 81,67L 79,67L 79,66L 78,66Z" style="fill:rgb(226,226,226);"/>
+<path d="M 80,35L 80,39L 84,39L 84,35Z" style="fill:rgb(226,226,226);"/>
+<path d="M 88,18L 88,14L 85,14L 85,18Z" style="fill:rgb(226,226,226);"/>
+<path d="M 101,48L 101,44L 98,44L 98,48Z" style="fill:rgb(226,226,226);"/>
+<path d="M 101,57L 101,53L 98,53L 98,56L 97,56L 97,57Z" style="fill:rgb(226,226,226);"/>
+<path d="M 97,104L 97,108L 101,108L 101,104Z" style="fill:rgb(226,226,226);"/>
+<path d="M 106,104L 106,100L 102,100L 102,104Z" style="fill:rgb(226,226,226);"/>
+<path d="M 110,5L 110,0L 106,0L 106,5Z" style="fill:rgb(226,226,226);"/>
+<path d="M 110,96L 106,96L 106,99L 110,99Z" style="fill:rgb(226,226,226);"/>
+<path d="M 110,122L 106,122L 106,125L 110,125Z" style="fill:rgb(226,226,226);"/>
+<path d="M 106,56L 110,56L 110,53L 106,53Z" style="fill:rgb(226,226,226);"/>
+<path d="M 110,121L 114,121L 114,117L 110,117Z" style="fill:rgb(226,226,226);"/>
+<path d="M 114,5L 118,5L 118,0L 114,0Z" style="fill:rgb(226,226,226);"/>
+<path d="M 115,27L 115,31L 118,31L 118,27Z" style="fill:rgb(226,226,226);"/>
+<path d="M 118,91L 118,87L 115,87L 115,91Z" style="fill:rgb(226,226,226);"/>
+<path d="M 122,18L 122,14L 119,14L 119,18Z" style="fill:rgb(226,226,226);"/>
+<path d="M 128,5L 128,0L 123,0L 123,5Z" style="fill:rgb(226,226,226);"/>
+<path d="M 128,31L 128,27L 123,27L 123,31Z" style="fill:rgb(226,226,226);"/>
+<path d="M 128,39L 128,35L 123,35L 123,39Z" style="fill:rgb(226,226,226);"/>
+<path d="M 127,53L 123,53L 123,56L 127,56Z" style="fill:rgb(226,226,226);"/>
+<path d="M 123,78L 123,82L 127,82L 127,78Z" style="fill:rgb(226,226,226);"/>
+<path d="M 3,5L 0,5L 0,9L 3,9Z" style="fill:rgb(224,224,224);"/>
+<path d="M 3,57L 0,57L 0,61L 3,61Z" style="fill:rgb(224,224,224);"/>
+<path d="M 3,78L 3,74L 0,74L 0,78Z" style="fill:rgb(224,224,224);"/>
+<path d="M 3,104L 3,100L 0,100L 0,104Z" style="fill:rgb(224,224,224);"/>
+<path d="M 0,121L 3,121L 3,117L 0,117Z" style="fill:rgb(224,224,224);"/>
+<path d="M 3,14L 0,14L 0,18L 3,18Z" style="fill:rgb(224,224,224);"/>
+<path d="M 3,27L 3,23L 0,23L 0,27Z" style="fill:rgb(224,224,224);"/>
+<path d="M 3,87L 3,83L 0,83L 0,87Z" style="fill:rgb(224,224,224);"/>
+<path d="M 3,108L 0,108L 0,112L 3,112Z" style="fill:rgb(224,224,224);"/>
+<path d="M 3,126L 0,126L 0,128L 3,128Z" style="fill:rgb(224,224,224);"/>
+<path d="M 3,44L 3,40L 0,40L 0,44Z" style="fill:rgb(224,224,224);"/>
+<path d="M 0,91L 0,95L 3,95L 3,91Z" style="fill:rgb(224,224,224);"/>
+<path d="M 7,5L 7,1L 4,1L 4,5Z" style="fill:rgb(224,224,224);"/>
+<path d="M 3,91L 7,91L 7,87L 3,87Z" style="fill:rgb(224,224,224);"/>
+<path d="M 7,18L 3,18L 3,22L 7,22Z" style="fill:rgb(224,224,224);"/>
+<path d="M 7,31L 7,27L 3,27L 3,31Z" style="fill:rgb(224,224,224);"/>
+<path d="M 5,37L 4,37L 4,38L 5,38L 5,39L 7,39L 7,36L 5,36Z" style="fill:rgb(224,224,224);"/>
+<path d="M 7,65L 7,62L 4,62L 4,65Z" style="fill:rgb(224,224,224);"/>
+<path d="M 7,74L 7,70L 3,70L 3,74Z" style="fill:rgb(224,224,224);"/>
+<path d="M 4,79L 4,82L 7,82L 7,79Z" style="fill:rgb(224,224,224);"/>
+<path d="M 7,108L 7,105L 4,105L 4,108Z" style="fill:rgb(224,224,224);"/>
+<path d="M 11,5L 7,5L 7,9L 11,9Z" style="fill:rgb(224,224,224);"/>
+<path d="M 8,35L 11,35L 11,31L 8,31Z" style="fill:rgb(224,224,224);"/>
+<path d="M 11,78L 11,74L 8,74L 8,78Z" style="fill:rgb(224,224,224);"/>
+<path d="M 7,121L 11,121L 11,117L 7,117Z" style="fill:rgb(224,224,224);"/>
+<path d="M 16,74L 16,70L 12,70L 12,74Z" style="fill:rgb(224,224,224);"/>
+<path d="M 13,0L 13,1L 12,1L 12,5L 16,5L 16,0Z" style="fill:rgb(224,224,224);"/>
+<path d="M 12,39L 14,39L 14,38L 15,38L 15,39L 16,39L 16,37L 15,37L 15,36L 12,36Z" style="fill:rgb(224,224,224);"/>
+<path d="M 16,44L 12,44L 12,48L 16,48Z" style="fill:rgb(224,224,224);"/>
+<path d="M 12,82L 15,82L 15,79L 12,79Z" style="fill:rgb(224,224,224);"/>
+<path d="M 12,99L 15,99L 15,96L 12,96Z" style="fill:rgb(224,224,224);"/>
+<path d="M 15,116L 14,116L 14,115L 15,115L 15,113L 12,113L 12,117L 15,117Z" style="fill:rgb(224,224,224);"/>
+<path d="M 20,18L 20,14L 16,14L 16,18Z" style="fill:rgb(224,224,224);"/>
+<path d="M 20,48L 16,48L 16,52L 20,52Z" style="fill:rgb(224,224,224);"/>
+<path d="M 20,56L 17,56L 17,57L 16,57L 16,61L 20,61Z" style="fill:rgb(224,224,224);"/>
+<path d="M 20,78L 20,74L 16,74L 16,78Z" style="fill:rgb(224,224,224);"/>
+<path d="M 16,100L 16,104L 20,104L 20,100Z" style="fill:rgb(224,224,224);"/>
+<path d="M 20,121L 20,117L 16,117L 16,121Z" style="fill:rgb(224,224,224);"/>
+<path d="M 20,40L 19,40L 19,39L 18,39L 18,40L 16,40L 16,44L 20,44L 20,42L 22,42L 22,41L 20,41Z" style="fill:rgb(224,224,224);"/>
+<path d="M 20,86L 20,83L 16,83L 16,86Z" style="fill:rgb(224,224,224);"/>
+<path d="M 20,48L 21,48L 21,47L 23,47L 23,44L 20,44Z" style="fill:rgb(224,224,224);"/>
+<path d="M 20,87L 20,91L 24,91L 24,87Z" style="fill:rgb(224,224,224);"/>
+<path d="M 24,117L 24,113L 20,113L 20,117Z" style="fill:rgb(224,224,224);"/>
+<path d="M 21,64L 20,64L 20,65L 24,65L 24,63L 23,63L 23,62L 21,62Z" style="fill:rgb(224,224,224);"/>
+<path d="M 20,0L 20,5L 24,5L 24,4L 25,4L 25,1L 29,1L 29,0Z" style="fill:rgb(224,224,224);"/>
+<path d="M 33,56L 29,56L 29,55L 28,55L 28,56L 27,56L 27,57L 25,57L 25,61L 28,61L 28,65L 29,65L 29,57L 33,57Z" style="fill:rgb(224,224,224);"/>
+<path d="M 24,108L 24,112L 29,112L 29,108Z" style="fill:rgb(224,224,224);"/>
+<path d="M 25,104L 28,104L 28,100L 25,100Z" style="fill:rgb(224,224,224);"/>
+<path d="M 25,121L 28,121L 28,117L 25,117Z" style="fill:rgb(224,224,224);"/>
+<path d="M 33,31L 33,27L 29,27L 29,31Z" style="fill:rgb(224,224,224);"/>
+<path d="M 33,125L 33,121L 29,121L 29,125Z" style="fill:rgb(224,224,224);"/>
+<path d="M 33,74L 33,70L 29,70L 29,74Z" style="fill:rgb(224,224,224);"/>
+<path d="M 33,117L 33,113L 29,113L 29,117Z" style="fill:rgb(224,224,224);"/>
+<path d="M 33,5L 33,9L 37,9L 37,5Z" style="fill:rgb(224,224,224);"/>
+<path d="M 33,31L 33,35L 37,35L 37,31Z" style="fill:rgb(224,224,224);"/>
+<path d="M 37,61L 37,59L 36,59L 36,58L 34,58L 34,59L 33,59L 33,61Z" style="fill:rgb(224,224,224);"/>
+<path d="M 37,65L 33,65L 33,69L 37,69Z" style="fill:rgb(224,224,224);"/>
+<path d="M 37,121L 37,117L 33,117L 33,121Z" style="fill:rgb(224,224,224);"/>
+<path d="M 33,126L 33,128L 37,128L 37,126Z" style="fill:rgb(224,224,224);"/>
+<path d="M 41,10L 37,10L 37,14L 41,14Z" style="fill:rgb(224,224,224);"/>
+<path d="M 42,62L 41,62L 41,61L 40,61L 40,62L 39,62L 39,63L 38,63L 38,65L 41,65L 41,63L 42,63Z" style="fill:rgb(224,224,224);"/>
+<path d="M 42,92L 42,89L 41,89L 41,87L 37,87L 37,91L 41,91L 41,92Z" style="fill:rgb(224,224,224);"/>
+<path d="M 41,39L 41,36L 39,36L 39,37L 38,37L 38,36L 37,36L 37,39Z" style="fill:rgb(224,224,224);"/>
+<path d="M 46,40L 42,40L 42,42L 43,42L 43,43L 42,43L 42,44L 46,44Z" style="fill:rgb(224,224,224);"/>
+<path d="M 50,31L 50,27L 46,27L 46,31Z" style="fill:rgb(224,224,224);"/>
+<path d="M 46,44L 46,48L 50,48L 50,44Z" style="fill:rgb(224,224,224);"/>
+<path d="M 46,57L 50,57L 50,53L 46,53Z" style="fill:rgb(224,224,224);"/>
+<path d="M 54,0L 49,0L 49,1L 46,1L 46,5L 50,5L 50,1L 54,1Z" style="fill:rgb(224,224,224);"/>
+<path d="M 50,104L 47,104L 47,108L 50,108Z" style="fill:rgb(224,224,224);"/>
+<path d="M 50,99L 50,96L 48,96L 48,99Z" style="fill:rgb(224,224,224);"/>
+<path d="M 50,21L 50,22L 49,22L 49,23L 50,23L 50,27L 54,27L 54,22L 53,22L 53,21Z" style="fill:rgb(224,224,224);"/>
+<path d="M 50,78L 54,78L 54,74L 50,74Z" style="fill:rgb(224,224,224);"/>
+<path d="M 54,108L 50,108L 50,112L 54,112Z" style="fill:rgb(224,224,224);"/>
+<path d="M 53,36L 53,35L 54,35L 54,31L 50,31L 50,33L 51,33L 51,34L 49,34L 49,35L 52,35L 52,36Z" style="fill:rgb(224,224,224);"/>
+<path d="M 54,48L 50,48L 50,52L 54,52Z" style="fill:rgb(224,224,224);"/>
+<path d="M 58,31L 58,27L 55,27L 55,31Z" style="fill:rgb(224,224,224);"/>
+<path d="M 55,65L 59,65L 59,61L 56,61L 56,62L 55,62Z" style="fill:rgb(224,224,224);"/>
+<path d="M 63,26L 63,23L 59,23L 59,26Z" style="fill:rgb(224,224,224);"/>
+<path d="M 63,78L 63,74L 59,74L 59,78Z" style="fill:rgb(224,224,224);"/>
+<path d="M 63,104L 63,100L 59,100L 59,104Z" style="fill:rgb(224,224,224);"/>
+<path d="M 63,31L 59,31L 59,35L 63,35Z" style="fill:rgb(224,224,224);"/>
+<path d="M 63,9L 63,5L 59,5L 59,9Z" style="fill:rgb(224,224,224);"/>
+<path d="M 63,128L 63,126L 59,126L 59,128Z" style="fill:rgb(224,224,224);"/>
+<path d="M 67,121L 63,121L 63,125L 67,125Z" style="fill:rgb(224,224,224);"/>
+<path d="M 63,99L 67,99L 67,96L 63,96Z" style="fill:rgb(224,224,224);"/>
+<path d="M 63,5L 67,5L 67,1L 64,1L 64,0L 63,0Z" style="fill:rgb(224,224,224);"/>
+<path d="M 68,26L 71,26L 71,23L 68,23Z" style="fill:rgb(224,224,224);"/>
+<path d="M 68,63L 68,61L 71,61L 71,57L 68,57L 68,56L 67,56L 67,63Z" style="fill:rgb(224,224,224);"/>
+<path d="M 71,78L 71,74L 68,74L 68,78Z" style="fill:rgb(224,224,224);"/>
+<path d="M 71,87L 71,83L 68,83L 68,86L 67,86L 67,87Z" style="fill:rgb(224,224,224);"/>
+<path d="M 68,95L 71,95L 71,93L 70,93L 70,92L 69,92L 69,93L 68,93Z" style="fill:rgb(224,224,224);"/>
+<path d="M 72,74L 75,74L 75,72L 74,72L 74,70L 72,70Z" style="fill:rgb(224,224,224);"/>
+<path d="M 75,91L 75,88L 73,88L 73,91Z" style="fill:rgb(224,224,224);"/>
+<path d="M 77,3L 76,3L 76,0L 72,0L 72,5L 75,5L 75,4L 77,4Z" style="fill:rgb(224,224,224);"/>
+<path d="M 72,48L 76,48L 76,44L 72,44L 72,46L 71,46L 71,47L 72,47Z" style="fill:rgb(224,224,224);"/>
+<path d="M 76,79L 75,79L 75,80L 74,80L 74,79L 72,79L 72,82L 76,82Z" style="fill:rgb(224,224,224);"/>
+<path d="M 80,31L 76,31L 76,35L 80,35Z" style="fill:rgb(224,224,224);"/>
+<path d="M 80,44L 80,40L 76,40L 76,44Z" style="fill:rgb(224,224,224);"/>
+<path d="M 80,74L 78,74L 78,75L 77,75L 77,76L 76,76L 76,78L 80,78Z" style="fill:rgb(224,224,224);"/>
+<path d="M 81,83L 76,83L 76,86L 80,86L 80,85L 81,85Z" style="fill:rgb(224,224,224);"/>
+<path d="M 80,100L 76,100L 76,104L 80,104Z" style="fill:rgb(224,224,224);"/>
+<path d="M 80,108L 75,108L 75,111L 76,111L 76,112L 80,112Z" style="fill:rgb(224,224,224);"/>
+<path d="M 80,48L 76,48L 76,52L 80,52Z" style="fill:rgb(224,224,224);"/>
+<path d="M 80,91L 76,91L 76,95L 80,95Z" style="fill:rgb(224,224,224);"/>
+<path d="M 76,118L 75,118L 75,119L 77,119L 77,120L 80,120L 80,117L 76,117Z" style="fill:rgb(224,224,224);"/>
+<path d="M 84,18L 80,18L 80,22L 84,22Z" style="fill:rgb(224,224,224);"/>
+<path d="M 84,31L 84,30L 85,30L 85,28L 84,28L 84,27L 80,27L 80,31Z" style="fill:rgb(224,224,224);"/>
+<path d="M 84,50L 84,44L 80,44L 80,48L 83,48L 83,50Z" style="fill:rgb(224,224,224);"/>
+<path d="M 88,78L 88,74L 85,74L 85,78Z" style="fill:rgb(224,224,224);"/>
+<path d="M 91,90L 90,90L 90,91L 93,91L 93,87L 91,87Z" style="fill:rgb(224,224,224);"/>
+<path d="M 93,117L 93,115L 91,115L 91,114L 90,114L 90,117Z" style="fill:rgb(224,224,224);"/>
+<path d="M 90,56L 93,56L 93,53L 90,53Z" style="fill:rgb(224,224,224);"/>
+<path d="M 93,81L 93,79L 90,79L 90,81Z" style="fill:rgb(224,224,224);"/>
+<path d="M 95,104L 97,104L 97,100L 95,100L 95,101L 94,101L 94,103L 95,103Z" style="fill:rgb(224,224,224);"/>
+<path d="M 97,108L 93,108L 93,112L 97,112Z" style="fill:rgb(224,224,224);"/>
+<path d="M 97,121L 97,117L 93,117L 93,121Z" style="fill:rgb(224,224,224);"/>
+<path d="M 97,31L 93,31L 93,35L 97,35Z" style="fill:rgb(224,224,224);"/>
+<path d="M 96,43L 96,42L 97,42L 97,40L 95,40L 95,41L 94,41L 94,42L 95,42L 95,43Z" style="fill:rgb(224,224,224);"/>
+<path d="M 101,31L 101,27L 98,27L 98,31Z" style="fill:rgb(224,224,224);"/>
+<path d="M 101,35L 97,35L 97,39L 101,39Z" style="fill:rgb(224,224,224);"/>
+<path d="M 98,65L 101,65L 101,63L 100,63L 100,62L 99,62L 99,63L 98,63Z" style="fill:rgb(224,224,224);"/>
+<path d="M 101,121L 98,121L 98,120L 97,120L 97,128L 98,128L 98,126L 101,126Z" style="fill:rgb(224,224,224);"/>
+<path d="M 97,5L 101,5L 101,0L 97,0Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,78L 106,74L 102,74L 102,75L 101,75L 101,76L 102,76L 102,78Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,57L 102,57L 102,61L 106,61Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,121L 106,117L 102,117L 102,121Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,9L 106,5L 105,5L 105,6L 102,6L 102,9Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,18L 106,14L 103,14L 103,15L 102,15L 102,18Z" style="fill:rgb(224,224,224);"/>
+<path d="M 105,23L 102,23L 102,26L 105,26Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,31L 102,31L 102,35L 106,35Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,66L 105,66L 105,67L 104,67L 104,66L 102,66L 102,69L 105,69L 105,70L 106,70Z" style="fill:rgb(224,224,224);"/>
+<path d="M 110,14L 110,10L 106,10L 106,14Z" style="fill:rgb(224,224,224);"/>
+<path d="M 109,26L 107,26L 107,27L 106,27L 106,31L 110,31L 110,27L 109,27Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,44L 106,48L 110,48L 110,44Z" style="fill:rgb(224,224,224);"/>
+<path d="M 110,61L 106,61L 106,65L 110,65Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,82L 110,82L 110,79L 106,79Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,104L 106,108L 110,108L 110,104Z" style="fill:rgb(224,224,224);"/>
+<path d="M 110,117L 110,113L 106,113L 106,117Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,22L 107,22L 107,23L 109,23L 109,22L 110,22L 110,18L 106,18Z" style="fill:rgb(224,224,224);"/>
+<path d="M 106,38L 107,38L 107,39L 110,39L 110,36L 106,36Z" style="fill:rgb(224,224,224);"/>
+<path d="M 110,74L 110,70L 107,70L 107,71L 106,71L 106,74Z" style="fill:rgb(224,224,224);"/>
+<path d="M 110,87L 107,87L 107,91L 110,91Z" style="fill:rgb(224,224,224);"/>
+<path d="M 110,18L 114,18L 114,15L 113,15L 113,14L 110,14Z" style="fill:rgb(224,224,224);"/>
+<path d="M 110,61L 114,61L 114,57L 110,57Z" style="fill:rgb(224,224,224);"/>
+<path d="M 110,100L 110,104L 114,104L 114,100Z" style="fill:rgb(224,224,224);"/>
+<path d="M 111,112L 111,111L 112,111L 112,112L 114,112L 114,109L 112,109L 112,110L 111,110L 111,109L 110,109L 110,112Z" style="fill:rgb(224,224,224);"/>
+<path d="M 112,7L 111,7L 111,8L 112,8L 112,9L 114,9L 114,6L 112,6Z" style="fill:rgb(224,224,224);"/>
+<path d="M 114,44L 114,40L 110,40L 110,44Z" style="fill:rgb(224,224,224);"/>
+<path d="M 110,48L 110,52L 114,52L 114,48Z" style="fill:rgb(224,224,224);"/>
+<path d="M 114,95L 114,92L 112,92L 112,93L 111,93L 111,92L 110,92L 110,95Z" style="fill:rgb(224,224,224);"/>
+<path d="M 115,22L 118,22L 118,20L 117,20L 117,19L 116,19L 116,20L 115,20Z" style="fill:rgb(224,224,224);"/>
+<path d="M 118,35L 114,35L 114,39L 119,39L 119,34L 118,34Z" style="fill:rgb(224,224,224);"/>
+<path d="M 118,48L 118,44L 115,44L 115,48Z" style="fill:rgb(224,224,224);"/>
+<path d="M 116,73L 115,73L 115,74L 118,74L 118,73L 117,73L 117,72L 118,72L 118,70L 115,70L 115,72L 116,72Z" style="fill:rgb(224,224,224);"/>
+<path d="M 119,77L 118,77L 118,78L 114,78L 114,82L 119,82Z" style="fill:rgb(224,224,224);"/>
+<path d="M 118,108L 118,106L 117,106L 117,105L 116,105L 116,106L 115,106L 115,108Z" style="fill:rgb(224,224,224);"/>
+<path d="M 123,61L 123,57L 119,57L 119,61Z" style="fill:rgb(224,224,224);"/>
+<path d="M 123,104L 123,100L 121,100L 121,99L 120,99L 120,100L 119,100L 119,104Z" style="fill:rgb(224,224,224);"/>
+<path d="M 123,121L 123,117L 119,117L 119,121Z" style="fill:rgb(224,224,224);"/>
+<path d="M 123,9L 123,5L 119,5L 119,9Z" style="fill:rgb(224,224,224);"/>
+<path d="M 122,26L 122,23L 119,23L 119,26Z" style="fill:rgb(224,224,224);"/>
+<path d="M 123,35L 123,31L 119,31L 119,35Z" style="fill:rgb(224,224,224);"/>
+<path d="M 123,44L 123,40L 119,40L 119,44Z" style="fill:rgb(224,224,224);"/>
+<path d="M 123,52L 123,48L 119,48L 119,52Z" style="fill:rgb(224,224,224);"/>
+<path d="M 123,78L 123,74L 119,74L 119,78Z" style="fill:rgb(224,224,224);"/>
+<path d="M 122,86L 122,83L 119,83L 119,86Z" style="fill:rgb(224,224,224);"/>
+<path d="M 123,95L 123,91L 119,91L 119,95Z" style="fill:rgb(224,224,224);"/>
+<path d="M 119,112L 122,112L 122,109L 119,109Z" style="fill:rgb(224,224,224);"/>
+<path d="M 128,74L 128,70L 123,70L 123,74Z" style="fill:rgb(224,224,224);"/>
+<path d="M 126,95L 126,96L 123,96L 123,99L 128,99L 128,95Z" style="fill:rgb(224,224,224);"/>
+<path d="M 127,104L 123,104L 123,108L 127,108Z" style="fill:rgb(224,224,224);"/>
+<path d="M 127,117L 127,113L 123,113L 123,117Z" style="fill:rgb(224,224,224);"/>
+<path d="M 128,125L 128,121L 123,121L 123,125Z" style="fill:rgb(224,224,224);"/>
+<path d="M 128,22L 128,18L 123,18L 123,22Z" style="fill:rgb(224,224,224);"/>
+<path d="M 127,48L 127,44L 123,44L 123,48Z" style="fill:rgb(224,224,224);"/>
+<path d="M 128,65L 128,61L 125,61L 125,62L 124,62L 124,63L 123,63L 123,65Z" style="fill:rgb(224,224,224);"/>
+<path d="M 128,87L 123,87L 123,91L 128,91Z" style="fill:rgb(224,224,224);"/>
+<path d="M 128,14L 128,10L 123,10L 123,14Z" style="fill:rgb(224,224,224);"/>
+<path d="M 16,125L 16,121L 12,121L 12,125Z" style="fill:rgb(233,234,233);"/>
+<path d="M 20,112L 20,108L 16,108L 16,112Z" style="fill:rgb(233,234,233);"/>
+<path d="M 24,121L 20,121L 20,125L 24,125Z" style="fill:rgb(233,234,233);"/>
+<path d="M 29,9L 29,4L 28,4L 28,5L 25,5L 25,4L 24,4L 24,9Z" style="fill:rgb(233,234,233);"/>
+<path d="M 37,108L 33,108L 33,112L 37,112Z" style="fill:rgb(233,234,233);"/>
+<path d="M 34,95L 39,95L 39,94L 37,94L 37,91L 34,91L 34,93L 33,93L 33,94L 34,94Z" style="fill:rgb(233,234,233);"/>
+<path d="M 37,5L 41,5L 41,1L 37,1Z" style="fill:rgb(233,234,233);"/>
+<path d="M 46,9L 46,5L 42,5L 42,9Z" style="fill:rgb(233,234,233);"/>
+<path d="M 67,74L 67,70L 65,70L 65,69L 63,69L 63,68L 62,68L 62,69L 59,69L 59,70L 63,70L 63,74Z" style="fill:rgb(233,234,233);"/>
+<path d="M 63,91L 59,91L 59,95L 63,95Z" style="fill:rgb(233,234,233);"/>
+<path d="M 68,86L 68,83L 67,83L 67,86ZM 68,90L 68,87L 67,87L 67,90Z" style="fill:rgb(233,234,233);"/>
+<path d="M 68,90L 67,90L 67,95L 68,95L 68,93L 69,93L 69,92L 70,92L 70,93L 71,93L 71,91L 68,91Z" style="fill:rgb(233,234,233);"/>
+<path d="M 81,7L 81,8L 80,8L 80,9L 79,9L 79,17L 80,17L 80,14L 84,14L 84,10L 81,10L 81,9L 85,9L 85,8L 84,8L 84,7Z" style="fill:rgb(233,234,233);"/>
+<path d="M 85,97L 84,97L 84,99L 83,99L 83,100L 84,100L 84,104L 82,104L 82,106L 83,106L 83,105L 84,105L 84,106L 85,106Z" style="fill:rgb(233,234,233);"/>
+<path d="M 89,121L 89,125L 93,125L 93,121Z" style="fill:rgb(233,234,233);"/>
+<path d="M 98,56L 98,53L 97,53L 97,56ZM 98,60L 98,57L 97,57L 97,60Z" style="fill:rgb(233,234,233);"/>
+<path d="M 105,69L 102,69L 102,70L 105,70ZM 107,71L 107,70L 108,70L 108,69L 106,69L 106,71Z" style="fill:rgb(233,234,233);"/>
+<path d="M 118,61L 114,61L 114,65L 118,65Z" style="fill:rgb(233,234,233);"/>
+<path d="M 115,99L 115,96L 114,96L 114,99ZM 115,103L 115,100L 114,100L 114,103Z" style="fill:rgb(233,234,233);"/>
+<path d="M 122,26L 119,26L 119,27L 122,27ZM 126,26L 123,26L 123,27L 126,27Z" style="fill:rgb(233,234,233);"/>
+<path d="M 3,0L 0,0L 0,5L 3,5Z" style="fill:rgb(254,254,254);"/>
+<path d="M 6,9L 0,9L 0,14L 3,14L 3,10L 6,10Z" style="fill:rgb(254,254,254);"/>
+<path d="M 6,22L 3,22L 3,18L 0,18L 0,23L 6,23Z" style="fill:rgb(254,254,254);"/>
+<path d="M 0,27L 0,31L 3,31L 3,27Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,35L 0,35L 0,40L 6,40L 6,39L 3,39Z" style="fill:rgb(254,254,254);"/>
+<path d="M 0,44L 0,48L 3,48L 3,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 8,52L 0,52L 0,57L 3,57L 3,53L 8,53Z" style="fill:rgb(254,254,254);"/>
+<path d="M 6,65L 3,65L 3,61L 0,61L 0,66L 6,66Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,74L 3,70L 0,70L 0,74Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,78L 0,78L 0,82L 3,82Z" style="fill:rgb(254,254,254);"/>
+<path d="M 0,87L 0,91L 3,91L 3,87Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,100L 3,96L 0,96L 0,100Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,104L 0,104L 0,108L 3,108Z" style="fill:rgb(254,254,254);"/>
+<path d="M 11,112L 0,112L 0,117L 3,117L 3,113L 11,113Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,121L 0,121L 0,126L 7,126L 7,128L 8,128L 8,126L 10,126L 10,125L 3,125Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,5L 3,9L 7,9L 7,5Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,27L 7,27L 7,23L 3,23Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,31L 3,35L 7,35L 7,31Z" style="fill:rgb(254,254,254);"/>
+<path d="M 8,44L 8,40L 10,40L 10,39L 6,39L 6,40L 3,40L 3,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 7,48L 3,48L 3,52L 7,52Z" style="fill:rgb(254,254,254);"/>
+<path d="M 7,62L 7,57L 3,57L 3,65L 4,65L 4,62Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,69L 7,69L 7,66L 3,66Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,78L 7,78L 7,74L 3,74Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,87L 7,87L 7,83L 3,83Z" style="fill:rgb(254,254,254);"/>
+<path d="M 7,91L 3,91L 3,95L 7,95Z" style="fill:rgb(254,254,254);"/>
+<path d="M 7,105L 7,100L 3,100L 3,108L 4,108L 4,105Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,108L 3,112L 7,112L 7,108Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,121L 7,121L 7,117L 3,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 3,18L 7,18L 7,14L 3,14Z" style="fill:rgb(254,254,254);"/>
+<path d="M 7,5L 11,5L 11,1L 7,1Z" style="fill:rgb(254,254,254);"/>
+<path d="M 11,14L 11,10L 8,10L 8,14Z" style="fill:rgb(254,254,254);"/>
+<path d="M 7,18L 7,22L 11,22L 11,18Z" style="fill:rgb(254,254,254);"/>
+<path d="M 8,27L 8,31L 11,31L 11,27Z" style="fill:rgb(254,254,254);"/>
+<path d="M 11,35L 7,35L 7,39L 11,39Z" style="fill:rgb(254,254,254);"/>
+<path d="M 7,48L 11,48L 11,44L 7,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 8,57L 8,56L 11,56L 11,53L 7,53L 7,57Z" style="fill:rgb(254,254,254);"/>
+<path d="M 8,60L 7,60L 7,65L 11,65L 11,61L 8,61Z" style="fill:rgb(254,254,254);"/>
+<path d="M 8,73L 7,73L 7,74L 11,74L 11,70L 9,70L 9,69L 8,69Z" style="fill:rgb(254,254,254);"/>
+<path d="M 11,78L 7,78L 7,82L 11,82Z" style="fill:rgb(254,254,254);"/>
+<path d="M 7,87L 7,91L 11,91L 11,87Z" style="fill:rgb(254,254,254);"/>
+<path d="M 8,96L 8,99L 11,99L 11,96Z" style="fill:rgb(254,254,254);"/>
+<path d="M 7,108L 11,108L 11,104L 7,104Z" style="fill:rgb(254,254,254);"/>
+<path d="M 7,117L 11,117L 11,113L 7,113Z" style="fill:rgb(254,254,254);"/>
+<path d="M 7,121L 7,125L 11,125L 11,121Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,5L 12,5L 12,9L 16,9Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,18L 16,14L 12,14L 12,18Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,23L 12,23L 12,26L 15,26L 15,28L 16,28Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,30L 15,30L 15,29L 14,29L 14,31L 12,31L 12,35L 15,35L 15,37L 16,37L 16,39L 15,39L 15,40L 18,40L 18,38L 17,38L 17,36L 16,36Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,44L 16,40L 12,40L 12,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,52L 16,48L 12,48L 12,52Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,61L 16,57L 12,57L 12,61Z" style="fill:rgb(254,254,254);"/>
+<path d="M 12,66L 12,69L 15,69L 15,66Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,78L 16,74L 12,74L 12,78Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,86L 16,83L 12,83L 12,86Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,95L 16,91L 12,91L 12,95Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,100L 12,100L 12,104L 16,104Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,112L 16,108L 12,108L 12,109L 11,109L 11,112Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,121L 16,117L 12,117L 12,121Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,0L 16,0L 16,5L 20,5Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,14L 20,10L 16,10L 16,14Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,44L 16,48L 20,48L 20,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,53L 16,56L 20,56L 20,53Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,61L 16,61L 16,65L 20,65Z" style="fill:rgb(254,254,254);"/>
+<path d="M 23,69L 18,69L 18,70L 16,70L 16,74L 20,74L 20,70L 23,70Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,78L 16,78L 16,82L 20,82Z" style="fill:rgb(254,254,254);"/>
+<path d="M 16,87L 16,91L 20,91L 20,87Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,100L 20,96L 16,96L 16,100Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,104L 16,104L 16,108L 20,108Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,117L 20,113L 16,113L 16,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,121L 16,121L 16,125L 20,125Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,5L 20,9L 24,9L 24,5Z" style="fill:rgb(254,254,254);"/>
+<path d="M 24,48L 20,48L 20,52L 19,52L 19,53L 22,53L 22,52L 24,52Z" style="fill:rgb(254,254,254);"/>
+<path d="M 24,63L 24,57L 20,57L 20,64L 21,64L 21,62L 23,62L 23,63Z" style="fill:rgb(254,254,254);"/>
+<path d="M 19,65L 19,66L 20,66L 20,69L 24,69L 24,66L 23,66L 23,65Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,78L 24,78L 24,74L 20,74Z" style="fill:rgb(254,254,254);"/>
+<path d="M 24,87L 24,83L 20,83L 20,87Z" style="fill:rgb(254,254,254);"/>
+<path d="M 24,91L 20,91L 20,95L 24,95Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,104L 24,104L 24,100L 20,100Z" style="fill:rgb(254,254,254);"/>
+<path d="M 24,108L 20,108L 20,112L 24,112Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,117L 20,121L 24,121L 24,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 20,126L 20,128L 24,128L 24,126Z" style="fill:rgb(254,254,254);"/>
+<path d="M 30,13L 29,13L 29,12L 28,12L 28,10L 25,10L 25,13L 24,13L 24,15L 25,15L 25,14L 30,14Z" style="fill:rgb(254,254,254);"/>
+<path d="M 25,1L 25,5L 28,5L 28,1Z" style="fill:rgb(254,254,254);"/>
+<path d="M 25,27L 25,31L 28,31L 28,27Z" style="fill:rgb(254,254,254);"/>
+<path d="M 26,43L 26,44L 25,44L 25,48L 28,48L 28,51L 29,51L 29,45L 30,45L 30,43Z" style="fill:rgb(254,254,254);"/>
+<path d="M 25,53L 25,56L 28,56L 28,53Z" style="fill:rgb(254,254,254);"/>
+<path d="M 25,60L 24,60L 24,64L 25,64L 25,65L 28,65L 28,61L 25,61Z" style="fill:rgb(254,254,254);"/>
+<path d="M 25,77L 25,74L 28,74L 28,70L 25,70L 25,72L 24,72L 24,77Z" style="fill:rgb(254,254,254);"/>
+<path d="M 29,83L 29,81L 28,81L 28,79L 25,79L 25,77L 24,77L 24,82L 23,82L 23,83L 27,83L 27,84L 28,84L 28,83Z" style="fill:rgb(254,254,254);"/>
+<path d="M 26,93L 26,87L 24,87L 24,90L 25,90L 25,93Z" style="fill:rgb(254,254,254);"/>
+<path d="M 28,96L 25,96L 25,99L 28,99L 28,101L 29,101L 29,100L 31,100L 31,99L 29,99L 29,98L 28,98Z" style="fill:rgb(254,254,254);"/>
+<path d="M 25,105L 25,108L 28,108L 28,105Z" style="fill:rgb(254,254,254);"/>
+<path d="M 29,120L 29,115L 28,115L 28,113L 25,113L 25,115L 24,115L 24,120L 25,120L 25,117L 28,117L 28,120Z" style="fill:rgb(254,254,254);"/>
+<path d="M 25,120L 24,120L 24,125L 28,125L 28,122L 25,122Z" style="fill:rgb(254,254,254);"/>
+<path d="M 37,0L 29,0L 29,1L 28,1L 28,4L 29,4L 29,5L 33,5L 33,1L 37,1Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,5L 29,5L 29,10L 38,10L 38,9L 33,9Z" style="fill:rgb(254,254,254);"/>
+<path d="M 29,23L 29,26L 33,26L 33,23Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,37L 33,31L 29,31L 29,37Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,49L 32,49L 32,48L 29,48L 29,52L 33,52Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,61L 33,57L 29,57L 29,61Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,66L 29,66L 29,69L 33,69Z" style="fill:rgb(254,254,254);"/>
+<path d="M 32,80L 32,79L 33,79L 33,78L 32,78L 32,77L 33,77L 33,76L 34,76L 34,75L 33,75L 33,74L 29,74L 29,78L 30,78L 30,79L 31,79L 31,80Z" style="fill:rgb(254,254,254);"/>
+<path d="M 37,101L 32,101L 32,100L 29,100L 29,101L 28,101L 28,102L 29,102L 29,104L 33,104L 33,103L 34,103L 34,102L 37,102Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,108L 29,108L 29,112L 33,112Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,117L 29,117L 29,121L 33,121Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,1L 33,5L 37,5L 37,1Z" style="fill:rgb(254,254,254);"/>
+<path d="M 31,13L 31,14L 36,14L 36,15L 37,15L 37,10L 33,10L 33,13Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,31L 37,31L 37,28L 38,28L 38,27L 33,27Z" style="fill:rgb(254,254,254);"/>
+<path d="M 35,41L 35,40L 36,40L 36,42L 37,42L 37,40L 38,40L 38,39L 37,39L 37,35L 33,35L 33,38L 32,38L 32,39L 33,39L 33,40L 34,40L 34,41Z" style="fill:rgb(254,254,254);"/>
+<path d="M 38,57L 37,57L 37,56L 36,56L 36,55L 35,55L 35,53L 33,53L 33,59L 34,59L 34,58L 38,58Z" style="fill:rgb(254,254,254);"/>
+<path d="M 37,61L 33,61L 33,65L 37,65Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,75L 35,75L 35,74L 36,74L 36,73L 37,73L 37,72L 38,72L 38,71L 37,71L 37,70L 33,70Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,88L 32,88L 32,93L 34,93L 34,91L 37,91L 37,87L 35,87L 35,86L 36,86L 36,85L 34,85L 34,87L 33,87Z" style="fill:rgb(254,254,254);"/>
+<path d="M 33,108L 37,108L 37,104L 33,104Z" style="fill:rgb(254,254,254);"/>
+<path d="M 37,117L 37,113L 33,113L 33,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 37,121L 33,121L 33,125L 37,125Z" style="fill:rgb(254,254,254);"/>
+<path d="M 43,20L 43,18L 41,18L 41,14L 37,14L 37,16L 38,16L 38,17L 39,17L 39,18L 40,18L 40,20Z" style="fill:rgb(254,254,254);"/>
+<path d="M 38,45L 38,43L 41,43L 41,39L 38,39L 38,40L 37,40L 37,45Z" style="fill:rgb(254,254,254);"/>
+<path d="M 40,79L 39,79L 39,80L 38,80L 38,81L 37,81L 37,82L 36,82L 36,84L 37,84L 37,86L 41,86L 41,80L 40,80Z" style="fill:rgb(254,254,254);"/>
+<path d="M 37,5L 37,9L 41,9L 41,5Z" style="fill:rgb(254,254,254);"/>
+<path d="M 41,36L 41,31L 39,31L 39,32L 38,32L 38,35L 37,35L 37,36L 38,36L 38,37L 39,37L 39,36Z" style="fill:rgb(254,254,254);"/>
+<path d="M 45,68L 44,68L 44,67L 41,67L 41,66L 38,66L 38,69L 39,69L 39,70L 41,70L 41,69L 42,69L 42,70L 44,70L 44,69L 45,69Z" style="fill:rgb(254,254,254);"/>
+<path d="M 43,121L 42,121L 42,120L 41,120L 41,117L 40,117L 40,115L 39,115L 39,117L 37,117L 37,121L 41,121L 41,128L 42,128L 42,127L 43,127L 43,125L 42,125L 42,122L 43,122Z" style="fill:rgb(254,254,254);"/>
+<path d="M 44,25L 43,25L 43,26L 42,26L 42,27L 41,27L 41,28L 42,28L 42,31L 46,31L 46,27L 44,27Z" style="fill:rgb(254,254,254);"/>
+<path d="M 46,5L 46,1L 42,1L 42,5Z" style="fill:rgb(254,254,254);"/>
+<path d="M 46,14L 46,10L 42,10L 42,14Z" style="fill:rgb(254,254,254);"/>
+<path d="M 42,36L 42,39L 46,39L 46,36Z" style="fill:rgb(254,254,254);"/>
+<path d="M 46,48L 46,44L 42,44L 42,48Z" style="fill:rgb(254,254,254);"/>
+<path d="M 45,83L 45,82L 46,82L 46,79L 42,79L 42,82L 43,82L 43,84L 44,84L 44,83Z" style="fill:rgb(254,254,254);"/>
+<path d="M 47,125L 46,125L 46,124L 44,124L 44,122L 42,122L 42,125L 43,125L 43,127L 44,127L 44,126L 47,126Z" style="fill:rgb(254,254,254);"/>
+<path d="M 42,52L 42,54L 43,54L 43,55L 44,55L 44,56L 45,56L 45,57L 46,57L 46,52Z" style="fill:rgb(254,254,254);"/>
+<path d="M 50,5L 46,5L 46,9L 51,9L 51,8L 53,8L 53,6L 50,6Z" style="fill:rgb(254,254,254);"/>
+<path d="M 46,24L 45,24L 45,25L 46,25L 46,26L 50,26L 50,23L 46,23Z" style="fill:rgb(254,254,254);"/>
+<path d="M 51,33L 50,33L 50,31L 46,31L 46,35L 49,35L 49,34L 51,34Z" style="fill:rgb(254,254,254);"/>
+<path d="M 50,48L 46,48L 46,53L 54,53L 54,52L 50,52Z" style="fill:rgb(254,254,254);"/>
+<path d="M 46,57L 46,58L 47,58L 47,59L 48,59L 48,60L 50,60L 50,57Z" style="fill:rgb(254,254,254);"/>
+<path d="M 43,75L 43,76L 42,76L 42,77L 43,77L 43,78L 44,78L 44,77L 45,77L 45,76L 46,76L 46,78L 50,78L 50,71L 49,71L 49,72L 48,72L 48,73L 46,73L 46,74L 45,74L 45,75Z" style="fill:rgb(254,254,254);"/>
+<path d="M 47,107L 47,104L 50,104L 50,99L 48,99L 48,98L 47,98L 47,99L 46,99L 46,107Z" style="fill:rgb(254,254,254);"/>
+<path d="M 47,107L 46,107L 46,113L 48,113L 48,112L 50,112L 50,108L 47,108Z" style="fill:rgb(254,254,254);"/>
+<path d="M 54,127L 49,127L 49,126L 46,126L 46,128L 54,128Z" style="fill:rgb(254,254,254);"/>
+<path d="M 59,4L 58,4L 58,5L 55,5L 55,2L 54,2L 54,1L 50,1L 50,6L 54,6L 54,9L 55,9L 55,6L 58,6L 58,7L 59,7Z" style="fill:rgb(254,254,254);"/>
+<path d="M 52,15L 52,14L 54,14L 54,10L 50,10L 50,15Z" style="fill:rgb(254,254,254);"/>
+<path d="M 50,31L 54,31L 54,27L 50,27Z" style="fill:rgb(254,254,254);"/>
+<path d="M 53,44L 53,45L 50,45L 50,48L 55,48L 55,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 51,62L 51,59L 53,59L 53,57L 54,57L 54,53L 50,53L 50,60L 49,60L 49,61L 50,61L 50,62Z" style="fill:rgb(254,254,254);"/>
+<path d="M 51,70L 51,71L 50,71L 50,74L 54,74L 54,70Z" style="fill:rgb(254,254,254);"/>
+<path d="M 54,78L 50,78L 50,82L 54,82Z" style="fill:rgb(254,254,254);"/>
+<path d="M 54,86L 50,86L 50,88L 49,88L 49,91L 54,91Z" style="fill:rgb(254,254,254);"/>
+<path d="M 50,100L 54,100L 54,96L 50,96Z" style="fill:rgb(254,254,254);"/>
+<path d="M 55,108L 55,106L 54,106L 54,104L 50,104L 50,108Z" style="fill:rgb(254,254,254);"/>
+<path d="M 50,113L 50,116L 54,116L 54,113Z" style="fill:rgb(254,254,254);"/>
+<path d="M 55,126L 55,127L 54,127L 54,128L 58,128L 58,126Z" style="fill:rgb(254,254,254);"/>
+<path d="M 59,4L 59,0L 54,0L 54,2L 55,2L 55,5L 58,5L 58,4Z" style="fill:rgb(254,254,254);"/>
+<path d="M 55,6L 55,9L 58,9L 58,6Z" style="fill:rgb(254,254,254);"/>
+<path d="M 55,23L 55,26L 58,26L 58,23Z" style="fill:rgb(254,254,254);"/>
+<path d="M 55,31L 55,35L 58,35L 58,31Z" style="fill:rgb(254,254,254);"/>
+<path d="M 59,40L 56,40L 56,39L 55,39L 55,44L 58,44L 58,45L 59,45Z" style="fill:rgb(254,254,254);"/>
+<path d="M 55,57L 55,61L 58,61L 58,57Z" style="fill:rgb(254,254,254);"/>
+<path d="M 56,65L 55,65L 55,69L 58,69L 58,66L 56,66Z" style="fill:rgb(254,254,254);"/>
+<path d="M 55,74L 55,78L 58,78L 58,74Z" style="fill:rgb(254,254,254);"/>
+<path d="M 59,86L 59,83L 55,83L 55,86Z" style="fill:rgb(254,254,254);"/>
+<path d="M 59,90L 58,90L 58,91L 55,91L 55,95L 58,95L 58,94L 59,94Z" style="fill:rgb(254,254,254);"/>
+<path d="M 55,100L 55,104L 58,104L 58,100Z" style="fill:rgb(254,254,254);"/>
+<path d="M 59,1L 59,5L 63,5L 63,1Z" style="fill:rgb(254,254,254);"/>
+<path d="M 62,13L 62,12L 63,12L 63,10L 59,10L 59,11L 58,11L 58,13Z" style="fill:rgb(254,254,254);"/>
+<path d="M 56,19L 56,20L 58,20L 58,21L 59,21L 59,22L 63,22L 63,19Z" style="fill:rgb(254,254,254);"/>
+<path d="M 63,31L 63,27L 59,27L 59,31Z" style="fill:rgb(254,254,254);"/>
+<path d="M 63,35L 59,35L 59,39L 63,39Z" style="fill:rgb(254,254,254);"/>
+<path d="M 59,45L 58,45L 58,47L 60,47L 60,46L 63,46L 63,44L 59,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 63,61L 59,61L 59,65L 63,65Z" style="fill:rgb(254,254,254);"/>
+<path d="M 63,74L 63,70L 59,70L 59,74Z" style="fill:rgb(254,254,254);"/>
+<path d="M 59,78L 59,82L 63,82L 63,78Z" style="fill:rgb(254,254,254);"/>
+<path d="M 59,87L 59,91L 63,91L 63,87Z" style="fill:rgb(254,254,254);"/>
+<path d="M 59,96L 59,99L 63,99L 63,96Z" style="fill:rgb(254,254,254);"/>
+<path d="M 60,121L 60,123L 59,123L 59,125L 63,125L 63,121Z" style="fill:rgb(254,254,254);"/>
+<path d="M 67,5L 63,5L 63,9L 67,9Z" style="fill:rgb(254,254,254);"/>
+<path d="M 67,31L 67,23L 63,23L 63,31Z" style="fill:rgb(254,254,254);"/>
+<path d="M 68,37L 68,31L 63,31L 63,35L 67,35L 67,37Z" style="fill:rgb(254,254,254);"/>
+<path d="M 63,43L 67,43L 67,40L 63,40Z" style="fill:rgb(254,254,254);"/>
+<path d="M 71,69L 67,69L 67,66L 63,66L 63,69L 65,69L 65,70L 67,70L 67,72L 68,72L 68,70L 71,70Z" style="fill:rgb(254,254,254);"/>
+<path d="M 63,74L 63,78L 67,78L 67,74Z" style="fill:rgb(254,254,254);"/>
+<path d="M 61,82L 61,83L 63,83L 63,86L 67,86L 67,83L 66,83L 66,82Z" style="fill:rgb(254,254,254);"/>
+<path d="M 67,91L 63,91L 63,95L 67,95Z" style="fill:rgb(254,254,254);"/>
+<path d="M 63,100L 63,104L 67,104L 67,100Z" style="fill:rgb(254,254,254);"/>
+<path d="M 63,117L 63,121L 67,121L 67,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 63,126L 63,128L 67,128L 67,126Z" style="fill:rgb(254,254,254);"/>
+<path d="M 67,13L 72,13L 72,11L 71,11L 71,10L 68,10L 68,11L 67,11Z" style="fill:rgb(254,254,254);"/>
+<path d="M 68,53L 68,54L 67,54L 67,56L 68,56L 68,57L 71,57L 71,53Z" style="fill:rgb(254,254,254);"/>
+<path d="M 67,0L 67,5L 71,5L 71,8L 72,8L 72,0Z" style="fill:rgb(254,254,254);"/>
+<path d="M 68,63L 67,63L 67,65L 71,65L 71,61L 68,61Z" style="fill:rgb(254,254,254);"/>
+<path d="M 71,74L 71,81L 72,81L 72,79L 74,79L 74,80L 75,80L 75,79L 76,79L 76,78L 72,78L 72,72L 71,72L 71,70L 68,70L 68,72L 67,72L 67,78L 68,78L 68,74Z" style="fill:rgb(254,254,254);"/>
+<path d="M 70,83L 70,82L 71,82L 71,79L 68,79L 68,82L 69,82L 69,83Z" style="fill:rgb(254,254,254);"/>
+<path d="M 68,87L 68,91L 71,91L 71,87Z" style="fill:rgb(254,254,254);"/>
+<path d="M 68,96L 68,99L 71,99L 71,96Z" style="fill:rgb(254,254,254);"/>
+<path d="M 70,123L 69,123L 69,122L 68,122L 68,125L 71,125L 71,124L 70,124Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,26L 76,23L 72,23L 72,26Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,44L 76,40L 72,40L 72,41L 71,41L 71,45L 72,45L 72,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,48L 72,48L 72,52L 76,52Z" style="fill:rgb(254,254,254);"/>
+<path d="M 75,61L 75,57L 72,57L 72,61Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,66L 72,66L 72,69L 76,69Z" style="fill:rgb(254,254,254);"/>
+<path d="M 77,75L 76,75L 76,74L 72,74L 72,78L 76,78L 76,76L 77,76Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,86L 76,83L 72,83L 72,86Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,91L 72,91L 72,95L 76,95Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,104L 76,100L 72,100L 72,104Z" style="fill:rgb(254,254,254);"/>
+<path d="M 78,126L 72,126L 72,128L 80,128L 80,127L 78,127Z" style="fill:rgb(254,254,254);"/>
+<path d="M 78,3L 78,2L 79,2L 79,1L 81,1L 81,0L 76,0L 76,3Z" style="fill:rgb(254,254,254);"/>
+<path d="M 80,17L 79,17L 79,16L 78,16L 78,18L 76,18L 76,19L 75,19L 75,20L 74,20L 74,21L 75,21L 75,22L 80,22Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,27L 76,31L 80,31L 80,27Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,36L 76,39L 80,39L 80,36Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,44L 76,48L 80,48L 80,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,53L 76,56L 80,56L 80,53Z" style="fill:rgb(254,254,254);"/>
+<path d="M 78,75L 78,74L 80,74L 80,70L 76,70L 76,75Z" style="fill:rgb(254,254,254);"/>
+<path d="M 82,82L 81,82L 81,81L 80,81L 80,78L 76,78L 76,82L 80,82L 80,83L 82,83Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,87L 76,91L 80,91L 80,87Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,96L 76,99L 80,99L 80,96Z" style="fill:rgb(254,254,254);"/>
+<path d="M 80,104L 76,104L 76,108L 80,108Z" style="fill:rgb(254,254,254);"/>
+<path d="M 76,111L 74,111L 74,113L 75,113L 75,115L 76,115L 76,117L 80,117L 80,113L 84,113L 84,112L 76,112Z" style="fill:rgb(254,254,254);"/>
+<path d="M 85,28L 85,25L 84,25L 84,23L 80,23L 80,27L 84,27L 84,28Z" style="fill:rgb(254,254,254);"/>
+<path d="M 85,44L 85,40L 80,40L 80,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 85,77L 85,75L 84,75L 84,74L 80,74L 80,78L 84,78L 84,77Z" style="fill:rgb(254,254,254);"/>
+<path d="M 84,92L 83,92L 83,91L 80,91L 80,95L 84,95Z" style="fill:rgb(254,254,254);"/>
+<path d="M 80,126L 80,128L 84,128L 84,126Z" style="fill:rgb(254,254,254);"/>
+<path d="M 85,21L 85,17L 84,17L 84,14L 80,14L 80,18L 84,18L 84,21Z" style="fill:rgb(254,254,254);"/>
+<path d="M 80,35L 84,35L 84,31L 80,31Z" style="fill:rgb(254,254,254);"/>
+<path d="M 80,104L 84,104L 84,100L 80,100Z" style="fill:rgb(254,254,254);"/>
+<path d="M 84,108L 80,108L 80,112L 84,112Z" style="fill:rgb(254,254,254);"/>
+<path d="M 91,22L 90,22L 90,21L 89,21L 89,12L 91,12L 91,11L 90,11L 90,10L 89,10L 89,9L 86,9L 86,10L 85,10L 85,13L 88,13L 88,23L 91,23Z" style="fill:rgb(254,254,254);"/>
+<path d="M 88,18L 85,18L 85,22L 88,22Z" style="fill:rgb(254,254,254);"/>
+<path d="M 89,71L 87,71L 87,70L 85,70L 85,73L 89,73Z" style="fill:rgb(254,254,254);"/>
+<path d="M 86,123L 85,123L 85,124L 84,124L 84,125L 89,125L 89,122L 86,122Z" style="fill:rgb(254,254,254);"/>
+<path d="M 94,16L 93,16L 93,14L 89,14L 89,18L 94,18Z" style="fill:rgb(254,254,254);"/>
+<path d="M 89,59L 88,59L 88,60L 87,60L 87,61L 88,61L 88,62L 89,62L 89,61L 93,61L 93,57L 89,57Z" style="fill:rgb(254,254,254);"/>
+<path d="M 94,76L 93,76L 93,75L 92,75L 92,74L 89,74L 89,78L 93,78L 93,77L 94,77Z" style="fill:rgb(254,254,254);"/>
+<path d="M 89,83L 89,86L 93,86L 93,83Z" style="fill:rgb(254,254,254);"/>
+<path d="M 88,121L 87,121L 87,122L 89,122L 89,121L 93,121L 93,117L 89,117L 89,120L 88,120Z" style="fill:rgb(254,254,254);"/>
+<path d="M 97,125L 88,125L 88,128L 93,128L 93,126L 97,126Z" style="fill:rgb(254,254,254);"/>
+<path d="M 90,48L 90,52L 93,52L 93,48Z" style="fill:rgb(254,254,254);"/>
+<path d="M 94,6L 96,6L 96,5L 97,5L 97,0L 93,0L 93,5L 94,5Z" style="fill:rgb(254,254,254);"/>
+<path d="M 92,38L 92,34L 93,34L 93,31L 97,31L 97,27L 94,27L 94,28L 93,28L 93,29L 91,29L 91,38Z" style="fill:rgb(254,254,254);"/>
+<path d="M 94,40L 94,39L 97,39L 97,36L 92,36L 92,38L 93,38L 93,40Z" style="fill:rgb(254,254,254);"/>
+<path d="M 93,44L 93,48L 97,48L 97,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 93,61L 97,61L 97,53L 93,53Z" style="fill:rgb(254,254,254);"/>
+<path d="M 97,61L 93,61L 93,65L 97,65Z" style="fill:rgb(254,254,254);"/>
+<path d="M 93,91L 97,91L 97,87L 93,87Z" style="fill:rgb(254,254,254);"/>
+<path d="M 92,108L 97,108L 97,104L 92,104Z" style="fill:rgb(254,254,254);"/>
+<path d="M 97,117L 97,113L 93,113L 93,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 97,121L 93,121L 93,125L 97,125Z" style="fill:rgb(254,254,254);"/>
+<path d="M 98,5L 98,7L 97,7L 97,9L 101,9L 101,5Z" style="fill:rgb(254,254,254);"/>
+<path d="M 99,23L 98,23L 98,25L 97,25L 97,26L 101,26L 101,21L 100,21L 100,22L 99,22Z" style="fill:rgb(254,254,254);"/>
+<path d="M 97,35L 101,35L 101,31L 97,31Z" style="fill:rgb(254,254,254);"/>
+<path d="M 98,47L 98,44L 101,44L 101,40L 98,40L 98,42L 97,42L 97,47Z" style="fill:rgb(254,254,254);"/>
+<path d="M 98,49L 98,52L 101,52L 101,49Z" style="fill:rgb(254,254,254);"/>
+<path d="M 98,57L 98,61L 101,61L 101,57Z" style="fill:rgb(254,254,254);"/>
+<path d="M 101,72L 100,72L 100,69L 101,69L 101,66L 100,66L 100,65L 97,65L 97,69L 96,69L 96,70L 97,70L 97,71L 98,71L 98,72L 99,72L 99,73L 101,73Z" style="fill:rgb(254,254,254);"/>
+<path d="M 97,104L 101,104L 101,100L 97,100Z" style="fill:rgb(254,254,254);"/>
+<path d="M 98,109L 98,112L 101,112L 101,109Z" style="fill:rgb(254,254,254);"/>
+<path d="M 98,117L 98,121L 101,121L 101,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 98,126L 98,128L 101,128L 101,126Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,5L 106,0L 101,0L 101,5Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,13L 106,10L 102,10L 102,13Z" style="fill:rgb(254,254,254);"/>
+<path d="M 102,19L 102,22L 105,22L 105,19Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,31L 106,27L 102,27L 102,31Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,35L 105,35L 105,36L 102,36L 102,39L 106,39Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,48L 106,44L 102,44L 102,48Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,53L 102,53L 102,56L 106,56Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,65L 106,61L 102,61L 102,65Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,74L 106,70L 102,70L 102,74Z" style="fill:rgb(254,254,254);"/>
+<path d="M 103,95L 103,96L 102,96L 102,97L 101,97L 101,99L 106,99L 106,96L 107,96L 107,95Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,104L 102,104L 102,108L 106,108Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,117L 106,113L 102,113L 102,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,122L 102,122L 102,125L 106,125Z" style="fill:rgb(254,254,254);"/>
+<path d="M 110,5L 106,5L 106,9L 110,9Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,14L 106,18L 110,18L 110,14Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,23L 106,26L 110,26L 110,23Z" style="fill:rgb(254,254,254);"/>
+<path d="M 111,34L 111,33L 112,33L 112,32L 110,32L 110,31L 106,31L 106,35L 110,35L 110,34Z" style="fill:rgb(254,254,254);"/>
+<path d="M 110,44L 110,40L 106,40L 106,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 110,48L 106,48L 106,52L 110,52Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,57L 106,61L 110,61L 110,57Z" style="fill:rgb(254,254,254);"/>
+<path d="M 113,69L 110,69L 110,66L 109,66L 109,65L 105,65L 105,66L 106,66L 106,69L 108,69L 108,70L 113,70Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,74L 106,78L 110,78L 110,74Z" style="fill:rgb(254,254,254);"/>
+<path d="M 105,85L 106,85L 106,86L 110,86L 110,82L 105,82Z" style="fill:rgb(254,254,254);"/>
+<path d="M 105,90L 105,94L 104,94L 104,95L 107,95L 107,96L 109,96L 109,95L 110,95L 110,91L 107,91L 107,90Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,100L 106,104L 110,104L 110,100Z" style="fill:rgb(254,254,254);"/>
+<path d="M 110,108L 106,108L 106,112L 110,112Z" style="fill:rgb(254,254,254);"/>
+<path d="M 106,117L 106,121L 110,121L 110,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 102,127L 102,128L 110,128L 110,126L 105,126L 105,127Z" style="fill:rgb(254,254,254);"/>
+<path d="M 114,15L 114,10L 110,10L 110,14L 113,14L 113,15Z" style="fill:rgb(254,254,254);"/>
+<path d="M 114,18L 110,18L 110,22L 114,22Z" style="fill:rgb(254,254,254);"/>
+<path d="M 112,32L 112,31L 114,31L 114,27L 110,27L 110,32Z" style="fill:rgb(254,254,254);"/>
+<path d="M 111,34L 110,34L 110,39L 114,39L 114,35L 111,35Z" style="fill:rgb(254,254,254);"/>
+<path d="M 110,57L 114,57L 114,53L 110,53Z" style="fill:rgb(254,254,254);"/>
+<path d="M 114,61L 110,61L 110,65L 114,65Z" style="fill:rgb(254,254,254);"/>
+<path d="M 113,76L 113,75L 114,75L 114,70L 110,70L 110,74L 111,74L 111,75L 112,75L 112,76Z" style="fill:rgb(254,254,254);"/>
+<path d="M 110,78L 110,82L 114,82L 114,78Z" style="fill:rgb(254,254,254);"/>
+<path d="M 110,100L 114,100L 114,96L 110,96Z" style="fill:rgb(254,254,254);"/>
+<path d="M 114,117L 114,113L 110,113L 110,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 110,121L 110,125L 114,125L 114,121Z" style="fill:rgb(254,254,254);"/>
+<path d="M 110,5L 114,5L 114,0L 110,0Z" style="fill:rgb(254,254,254);"/>
+<path d="M 110,48L 114,48L 114,44L 110,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 114,92L 114,87L 110,87L 110,92L 111,92L 111,93L 112,93L 112,92Z" style="fill:rgb(254,254,254);"/>
+<path d="M 111,105L 111,108L 114,108L 114,105Z" style="fill:rgb(254,254,254);"/>
+<path d="M 119,9L 119,5L 114,5L 114,9Z" style="fill:rgb(254,254,254);"/>
+<path d="M 114,18L 118,18L 118,14L 114,14Z" style="fill:rgb(254,254,254);"/>
+<path d="M 114,26L 118,26L 118,23L 117,23L 117,22L 114,22Z" style="fill:rgb(254,254,254);"/>
+<path d="M 114,35L 118,35L 118,34L 119,34L 119,30L 118,30L 118,31L 114,31Z" style="fill:rgb(254,254,254);"/>
+<path d="M 119,43L 118,43L 118,40L 115,40L 115,43L 114,43L 114,44L 119,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 119,52L 119,48L 114,48L 114,52Z" style="fill:rgb(254,254,254);"/>
+<path d="M 114,61L 118,61L 118,64L 119,64L 119,59L 118,59L 118,57L 114,57Z" style="fill:rgb(254,254,254);"/>
+<path d="M 115,66L 115,69L 118,69L 118,66Z" style="fill:rgb(254,254,254);"/>
+<path d="M 114,74L 114,78L 118,78L 118,74Z" style="fill:rgb(254,254,254);"/>
+<path d="M 119,86L 119,83L 114,83L 114,85L 115,85L 115,87L 118,87L 118,86Z" style="fill:rgb(254,254,254);"/>
+<path d="M 114,95L 118,95L 118,92L 115,92L 115,91L 114,91Z" style="fill:rgb(254,254,254);"/>
+<path d="M 119,104L 119,100L 115,100L 115,104Z" style="fill:rgb(254,254,254);"/>
+<path d="M 115,109L 115,112L 118,112L 118,109Z" style="fill:rgb(254,254,254);"/>
+<path d="M 115,117L 115,121L 118,121L 118,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 115,126L 115,128L 118,128L 118,126Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,5L 123,0L 118,0L 118,5Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,14L 123,10L 119,10L 119,14Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,22L 123,18L 119,18L 119,22Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,27L 119,27L 119,31L 123,31Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,39L 123,35L 119,35L 119,39Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,44L 119,44L 119,48L 123,48Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,56L 123,53L 119,53L 119,56Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,65L 123,63L 124,63L 124,62L 123,62L 123,61L 119,61L 119,65Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,74L 123,70L 119,70L 119,74Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,82L 123,78L 119,78L 119,82Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,91L 123,87L 119,87L 119,91Z" style="fill:rgb(254,254,254);"/>
+<path d="M 119,96L 119,99L 122,99L 122,96Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,108L 123,104L 119,104L 119,108Z" style="fill:rgb(254,254,254);"/>
+<path d="M 122,117L 122,113L 119,113L 119,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,125L 123,121L 119,121L 119,125Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,5L 123,9L 128,9L 128,5Z" style="fill:rgb(254,254,254);"/>
+<path d="M 128,18L 128,14L 122,14L 122,18Z" style="fill:rgb(254,254,254);"/>
+<path d="M 126,27L 128,27L 128,22L 122,22L 122,27L 123,27L 123,26L 126,26Z" style="fill:rgb(254,254,254);"/>
+<path d="M 128,31L 123,31L 123,35L 128,35Z" style="fill:rgb(254,254,254);"/>
+<path d="M 127,44L 127,40L 123,40L 123,44Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,48L 123,52L 128,52L 128,48Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,62L 125,62L 125,61L 127,61L 127,57L 123,57Z" style="fill:rgb(254,254,254);"/>
+<path d="M 128,65L 122,65L 122,70L 128,70Z" style="fill:rgb(254,254,254);"/>
+<path d="M 128,78L 128,74L 123,74L 123,78Z" style="fill:rgb(254,254,254);"/>
+<path d="M 127,87L 127,83L 123,83L 123,87Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,91L 123,95L 128,95L 128,91Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,100L 123,104L 127,104L 127,100Z" style="fill:rgb(254,254,254);"/>
+<path d="M 128,117L 128,108L 123,108L 123,112L 127,112L 127,117Z" style="fill:rgb(254,254,254);"/>
+<path d="M 128,121L 128,117L 123,117L 123,121Z" style="fill:rgb(254,254,254);"/>
+<path d="M 123,126L 123,128L 127,128L 127,126Z" style="fill:rgb(254,254,254);"/>
+<path d="M 9,83L 9,85L 8,85L 8,86L 11,86L 11,83Z" style="fill:rgb(214,215,215);"/>
+<path d="M 11,104L 11,100L 8,100L 8,104Z" style="fill:rgb(214,215,215);"/>
+<path d="M 8,126L 8,128L 11,128L 11,126Z" style="fill:rgb(214,215,215);"/>
+<path d="M 24,48L 24,52L 28,52L 28,48Z" style="fill:rgb(214,215,215);"/>
+<path d="M 31,14L 31,13L 33,13L 33,10L 29,10L 29,13L 30,13L 30,14Z" style="fill:rgb(214,215,215);"/>
+<path d="M 33,56L 33,53L 29,53L 29,56Z" style="fill:rgb(214,215,215);"/>
+<path d="M 33,61L 29,61L 29,65L 33,65Z" style="fill:rgb(214,215,215);"/>
+<path d="M 53,64L 54,64L 54,65L 55,65L 55,62L 54,62L 54,57L 53,57L 53,59L 51,59L 51,62L 52,62L 52,63L 53,63Z" style="fill:rgb(214,215,215);"/>
+<path d="M 55,38L 54,38L 54,39L 59,39L 59,35L 58,35L 58,36L 55,36Z" style="fill:rgb(214,215,215);"/>
+<path d="M 63,40L 59,40L 59,44L 63,44Z" style="fill:rgb(214,215,215);"/>
+<path d="M 62,57L 59,57L 59,61L 62,61Z" style="fill:rgb(214,215,215);"/>
+<path d="M 58,69L 62,69L 62,68L 63,68L 63,65L 56,65L 56,66L 58,66Z" style="fill:rgb(214,215,215);"/>
+<path d="M 61,121L 63,121L 63,115L 66,115L 66,116L 68,116L 68,113L 61,113Z" style="fill:rgb(214,215,215);"/>
+<path d="M 68,66L 68,69L 71,69L 71,66Z" style="fill:rgb(214,215,215);"/>
+<path d="M 68,126L 68,128L 71,128L 71,126Z" style="fill:rgb(214,215,215);"/>
+<path d="M 76,33L 76,27L 72,27L 72,30L 73,30L 73,31L 74,31L 74,33Z" style="fill:rgb(214,215,215);"/>
+<path d="M 76,63L 75,63L 75,61L 72,61L 72,65L 75,65L 75,66L 77,66L 77,64L 76,64Z" style="fill:rgb(214,215,215);"/>
+<path d="M 76,91L 76,87L 72,87L 72,91L 73,91L 73,88L 75,88L 75,91Z" style="fill:rgb(214,215,215);"/>
+<path d="M 84,74L 84,70L 80,70L 80,74Z" style="fill:rgb(214,215,215);"/>
+<path d="M 85,126L 85,128L 88,128L 88,126Z" style="fill:rgb(214,215,215);"/>
+<path d="M 90,79L 89,79L 89,82L 93,82L 93,81L 90,81Z" style="fill:rgb(214,215,215);"/>
+<path d="M 92,67L 94,67L 94,68L 95,68L 95,69L 97,69L 97,65L 92,65L 92,64L 91,64L 91,66L 92,66Z" style="fill:rgb(214,215,215);"/>
+<path d="M 97,128L 97,126L 93,126L 93,128Z" style="fill:rgb(214,215,215);"/>
+<path d="M 103,43L 105,43L 105,40L 102,40L 102,42L 103,42Z" style="fill:rgb(214,215,215);"/>
+<path d="M 106,112L 106,109L 102,109L 102,111L 104,111L 104,112Z" style="fill:rgb(214,215,215);"/>
+<path d="M 122,69L 122,66L 119,66L 119,69Z" style="fill:rgb(214,215,215);"/>
+<path d="M 122,126L 119,126L 119,128L 122,128Z" style="fill:rgb(214,215,215);"/>
+<path d="M 3,126L 3,128L 7,128L 7,126Z" style="fill:rgb(251,250,250);"/>
+<path d="M 20,20L 20,18L 16,18L 16,22L 18,22L 18,21L 19,21L 19,20Z" style="fill:rgb(251,250,250);"/>
+<path d="M 24,16L 24,14L 20,14L 20,18L 21,18L 21,17L 22,17L 22,16Z" style="fill:rgb(251,250,250);"/>
+<path d="M 23,27L 22,27L 22,34L 23,34L 23,35L 24,35L 24,36L 27,36L 27,37L 29,37L 29,35L 25,35L 25,34L 24,34L 24,29L 23,29Z" style="fill:rgb(251,250,250);"/>
+<path d="M 25,108L 25,105L 28,105L 28,104L 24,104L 24,108Z" style="fill:rgb(251,250,250);"/>
+<path d="M 33,128L 33,126L 29,126L 29,128Z" style="fill:rgb(251,250,250);"/>
+<path d="M 37,126L 37,128L 41,128L 41,126Z" style="fill:rgb(251,250,250);"/>
+<path d="M 45,65L 44,65L 44,64L 43,64L 43,63L 41,63L 41,65L 42,65L 42,66L 43,66L 43,67L 45,67Z" style="fill:rgb(251,250,250);"/>
+<path d="M 49,42L 48,42L 48,40L 47,40L 47,42L 46,42L 46,44L 49,44Z" style="fill:rgb(251,250,250);"/>
+<path d="M 50,16L 50,14L 46,14L 46,16Z" style="fill:rgb(251,250,250);"/>
+<path d="M 48,93L 49,93L 49,95L 50,95L 50,91L 48,91Z" style="fill:rgb(251,250,250);"/>
+<path d="M 58,78L 55,78L 55,70L 59,70L 59,69L 55,69L 55,68L 54,68L 54,69L 53,69L 53,70L 54,70L 54,80L 55,80L 55,79L 58,79Z" style="fill:rgb(251,250,250);"/>
+<path d="M 59,124L 58,124L 58,125L 57,125L 57,126L 58,126L 58,128L 59,128L 59,126L 63,126L 63,125L 59,125Z" style="fill:rgb(251,250,250);"/>
+<path d="M 59,107L 63,107L 63,105L 65,105L 65,104L 59,104Z" style="fill:rgb(251,250,250);"/>
+<path d="M 71,105L 70,105L 70,104L 67,104L 67,106L 71,106Z" style="fill:rgb(251,250,250);"/>
+<path d="M 67,22L 71,22L 71,19L 67,19Z" style="fill:rgb(251,250,250);"/>
+<path d="M 72,30L 72,28L 71,28L 71,27L 67,27L 67,31L 69,31L 69,30Z" style="fill:rgb(251,250,250);"/>
+<path d="M 83,48L 80,48L 80,52L 79,52L 79,53L 80,53L 80,56L 81,56L 81,54L 82,54L 82,52L 83,52Z" style="fill:rgb(251,250,250);"/>
+<path d="M 83,125L 83,126L 84,126L 84,128L 85,128L 85,126L 88,126L 88,125Z" style="fill:rgb(251,250,250);"/>
+<path d="M 90,95L 92,95L 92,94L 93,94L 93,91L 90,91Z" style="fill:rgb(251,250,250);"/>
+<path d="M 91,108L 91,111L 92,111L 92,112L 93,112L 93,108Z" style="fill:rgb(251,250,250);"/>
+<path d="M 97,80L 96,80L 96,79L 95,79L 95,78L 94,78L 94,77L 93,77L 93,82L 97,82Z" style="fill:rgb(251,250,250);"/>
+<path d="M 48,59L 44,59L 44,63L 45,63L 45,67L 44,67L 44,68L 45,68L 45,69L 44,69L 44,70L 43,70L 43,71L 44,71L 44,72L 47,72L 47,73L 48,73L 48,72L 49,72L 49,71L 51,71L 51,69L 49,69L 49,67L 50,67L 50,65L 49,65L 49,63L 50,63L 50,64L 53,64L 53,63L 52,63L 52,62L 50,62L 50,61L 49,61L 49,60L 48,60Z" style="fill:rgb(79,161,141);"/>
+<path d="M 50,88L 50,85L 51,85L 51,83L 50,83L 50,82L 49,82L 49,83L 46,83L 46,84L 47,84L 47,87L 48,87L 48,86L 49,86L 49,88Z" style="fill:rgb(79,161,141);"/>
+<path d="M 53,21L 53,20L 55,20L 55,19L 52,19L 52,16L 47,16L 47,21Z" style="fill:rgb(79,161,141);"/>
+<path d="M 55,119L 54,119L 54,120L 53,120L 53,121L 52,121L 52,122L 53,122L 53,123L 52,123L 52,125L 54,125L 54,124L 57,124L 57,125L 58,125L 58,124L 59,124L 59,123L 60,123L 60,121L 61,121L 61,113L 59,113L 59,114L 58,114L 58,109L 57,109L 57,108L 56,108L 56,107L 55,107L 55,111L 56,111L 56,110L 57,110L 57,119L 56,119L 56,118L 55,118Z" style="fill:rgb(79,161,141);"/>
+<path d="M 11,86L 8,86L 8,85L 9,85L 9,82L 0,82L 0,83L 7,83L 7,87L 11,87Z" style="fill:rgb(242,241,241);"/>
+<path d="M 6,95L 0,95L 0,96L 6,96Z" style="fill:rgb(242,241,241);"/>
+<path d="M 7,69L 6,69L 6,70L 8,70L 8,69L 9,69L 9,70L 11,70L 11,65L 6,65L 6,66L 7,66Z" style="fill:rgb(242,241,241);"/>
+<path d="M 12,91L 12,83L 15,83L 15,82L 9,82L 9,83L 11,83L 11,91Z" style="fill:rgb(242,241,241);"/>
+<path d="M 12,19L 12,10L 11,10L 11,19Z" style="fill:rgb(242,241,241);"/>
+<path d="M 17,28L 17,23L 18,23L 18,22L 12,22L 12,19L 11,19L 11,26L 8,26L 8,27L 11,27L 11,34L 12,34L 12,27L 15,27L 15,26L 12,26L 12,23L 16,23L 16,28Z" style="fill:rgb(242,241,241);"/>
+<path d="M 15,35L 12,35L 12,34L 11,34L 11,39L 10,39L 10,40L 11,40L 11,47L 12,47L 12,40L 15,40L 15,38L 14,38L 14,39L 12,39L 12,36L 15,36Z" style="fill:rgb(242,241,241);"/>
+<path d="M 15,55L 14,55L 14,56L 12,56L 12,53L 11,53L 11,62L 12,62L 12,57L 17,57L 17,56L 15,56Z" style="fill:rgb(242,241,241);"/>
+<path d="M 19,65L 12,65L 12,62L 11,62L 11,70L 14,70L 14,69L 12,69L 12,66L 19,66Z" style="fill:rgb(242,241,241);"/>
+<path d="M 16,81L 16,78L 12,78L 12,70L 11,70L 11,82L 12,82L 12,79L 15,79L 15,81Z" style="fill:rgb(242,241,241);"/>
+<path d="M 15,99L 12,99L 12,96L 15,96L 15,95L 12,95L 12,91L 11,91L 11,93L 10,93L 10,95L 11,95L 11,99L 10,99L 10,100L 11,100L 11,109L 12,109L 12,100L 15,100Z" style="fill:rgb(242,241,241);"/>
+<path d="M 15,115L 14,115L 14,116L 15,116L 15,117L 16,117L 16,113L 19,113L 19,112L 11,112L 11,125L 10,125L 10,126L 11,126L 11,128L 12,128L 12,126L 19,126L 19,125L 12,125L 12,113L 15,113Z" style="fill:rgb(242,241,241);"/>
+<path d="M 25,13L 25,10L 28,10L 28,12L 29,12L 29,9L 13,9L 13,10L 12,10L 12,14L 16,14L 16,10L 24,10L 24,13Z" style="fill:rgb(242,241,241);"/>
+<path d="M 24,100L 24,95L 15,95L 15,100L 16,100L 16,96L 20,96L 20,100Z" style="fill:rgb(242,241,241);"/>
+<path d="M 19,112L 19,113L 24,113L 24,115L 25,115L 25,113L 28,113L 28,112Z" style="fill:rgb(242,241,241);"/>
+<path d="M 19,125L 19,126L 24,126L 24,128L 27,128L 27,127L 28,127L 28,125Z" style="fill:rgb(242,241,241);"/>
+<path d="M 25,56L 25,53L 28,53L 28,55L 29,55L 29,53L 34,53L 34,52L 29,52L 29,51L 28,51L 28,52L 22,52L 22,53L 21,53L 21,54L 23,54L 23,56Z" style="fill:rgb(242,241,241);"/>
+<path d="M 25,64L 24,64L 24,65L 23,65L 23,66L 24,66L 24,69L 23,69L 23,70L 24,70L 24,72L 25,72L 25,70L 28,70L 28,69L 25,69L 25,66L 28,66L 28,65L 25,65Z" style="fill:rgb(242,241,241);"/>
+<path d="M 25,60L 25,57L 27,57L 27,56L 24,56L 24,60Z" style="fill:rgb(242,241,241);"/>
+<path d="M 25,98L 24,98L 24,104L 25,104L 25,100L 28,100L 28,99L 25,99Z" style="fill:rgb(242,241,241);"/>
+<path d="M 29,35L 29,29L 28,29L 28,35Z" style="fill:rgb(242,241,241);"/>
+<path d="M 36,69L 29,69L 29,66L 33,66L 33,65L 28,65L 28,77L 29,77L 29,70L 36,70Z" style="fill:rgb(242,241,241);"/>
+<path d="M 29,102L 28,102L 28,108L 33,108L 33,104L 29,104Z" style="fill:rgb(242,241,241);"/>
+<path d="M 28,20L 27,20L 27,21L 26,21L 26,23L 28,23L 28,26L 29,26L 29,23L 34,23L 34,21L 33,21L 33,20L 32,20L 32,19L 28,19Z" style="fill:rgb(242,241,241);"/>
+<path d="M 39,112L 28,112L 28,115L 29,115L 29,113L 39,113Z" style="fill:rgb(242,241,241);"/>
+<path d="M 41,125L 28,125L 28,127L 27,127L 27,128L 29,128L 29,126L 41,126Z" style="fill:rgb(242,241,241);"/>
+<path d="M 42,13L 42,10L 47,10L 47,9L 38,9L 38,10L 41,10L 41,13Z" style="fill:rgb(242,241,241);"/>
+<path d="M 44,17L 47,17L 47,16L 46,16L 46,14L 42,14L 42,13L 41,13L 41,18L 44,18Z" style="fill:rgb(242,241,241);"/>
+<path d="M 46,35L 46,31L 42,31L 42,28L 41,28L 41,36L 42,36L 42,35Z" style="fill:rgb(242,241,241);"/>
+<path d="M 47,38L 46,38L 46,39L 42,39L 42,36L 41,36L 41,44L 42,44L 42,43L 43,43L 43,42L 42,42L 42,40L 46,40L 46,42L 47,42Z" style="fill:rgb(242,241,241);"/>
+<path d="M 40,51L 41,51L 41,52L 42,52L 42,44L 40,44L 40,46L 39,46L 39,49L 40,49Z" style="fill:rgb(242,241,241);"/>
+<path d="M 43,86L 43,82L 42,82L 42,79L 40,79L 40,80L 41,80L 41,86Z" style="fill:rgb(242,241,241);"/>
+<path d="M 59,7L 58,7L 58,9L 54,9L 54,6L 53,6L 53,8L 51,8L 51,9L 47,9L 47,10L 54,10L 54,12L 55,12L 55,10L 58,10L 58,11L 59,11L 59,10L 62,10L 62,9L 59,9Z" style="fill:rgb(242,241,241);"/>
+<path d="M 54,112L 48,112L 48,113L 54,113Z" style="fill:rgb(242,241,241);"/>
+<path d="M 51,85L 50,85L 50,86L 54,86L 54,88L 55,88L 55,83L 58,83L 58,82L 55,82L 55,80L 54,80L 54,82L 50,82L 50,83L 51,83Z" style="fill:rgb(242,241,241);"/>
+<path d="M 58,13L 58,10L 55,10L 55,12L 54,12L 54,14L 56,14L 56,13Z" style="fill:rgb(242,241,241);"/>
+<path d="M 58,35L 55,35L 55,27L 57,27L 57,26L 54,26L 54,35L 53,35L 53,37L 54,37L 54,38L 55,38L 55,36L 58,36Z" style="fill:rgb(242,241,241);"/>
+<path d="M 58,99L 55,99L 55,96L 58,96L 58,95L 55,95L 55,88L 54,88L 54,100L 58,100Z" style="fill:rgb(242,241,241);"/>
+<path d="M 57,106L 57,104L 55,104L 55,100L 54,100L 54,106L 55,106L 55,107L 56,107L 56,106Z" style="fill:rgb(242,241,241);"/>
+<path d="M 53,20L 53,22L 54,22L 54,26L 55,26L 55,23L 58,23L 58,26L 59,26L 59,23L 63,23L 63,22L 59,22L 59,21L 58,21L 58,20Z" style="fill:rgb(242,241,241);"/>
+<path d="M 59,35L 59,27L 63,27L 63,26L 57,26L 57,27L 58,27L 58,35Z" style="fill:rgb(242,241,241);"/>
+<path d="M 59,61L 59,57L 61,57L 61,56L 60,56L 60,55L 58,55L 58,61Z" style="fill:rgb(242,241,241);"/>
+<path d="M 68,37L 67,37L 67,39L 56,39L 56,40L 68,40Z" style="fill:rgb(242,241,241);"/>
+<path d="M 59,94L 58,94L 58,99L 59,99L 59,96L 67,96L 67,95L 59,95Z" style="fill:rgb(242,241,241);"/>
+<path d="M 73,9L 72,9L 72,8L 71,8L 71,9L 62,9L 62,10L 63,10L 63,12L 67,12L 67,11L 68,11L 68,10L 71,10L 71,11L 72,11L 72,10L 73,10Z" style="fill:rgb(242,241,241);"/>
+<path d="M 72,128L 72,125L 63,125L 63,126L 67,126L 67,128L 68,128L 68,126L 71,126L 71,128Z" style="fill:rgb(242,241,241);"/>
+<path d="M 69,26L 68,26L 68,23L 71,23L 71,22L 64,22L 64,21L 63,21L 63,23L 67,23L 67,27L 69,27Z" style="fill:rgb(242,241,241);"/>
+<path d="M 71,65L 63,65L 63,66L 67,66L 67,69L 68,69L 68,66L 71,66Z" style="fill:rgb(242,241,241);"/>
+<path d="M 69,39L 68,39L 68,40L 67,40L 67,45L 70,45L 70,46L 72,46L 72,45L 71,45L 71,44L 68,44L 68,41L 69,41Z" style="fill:rgb(242,241,241);"/>
+<path d="M 68,100L 68,96L 71,96L 71,102L 72,102L 72,99L 76,99L 76,96L 75,96L 75,95L 72,95L 72,93L 71,93L 71,95L 67,95L 67,100Z" style="fill:rgb(242,241,241);"/>
+<path d="M 75,19L 71,19L 71,26L 69,26L 69,27L 71,27L 71,28L 72,28L 72,27L 73,27L 73,26L 72,26L 72,23L 79,23L 79,22L 75,22L 75,21L 74,21L 74,20L 75,20Z" style="fill:rgb(242,241,241);"/>
+<path d="M 80,85L 80,86L 72,86L 72,83L 80,83L 80,82L 72,82L 72,81L 71,81L 71,82L 70,82L 70,83L 71,83L 71,93L 72,93L 72,87L 82,87L 82,85Z" style="fill:rgb(242,241,241);"/>
+<path d="M 76,56L 76,53L 79,53L 79,52L 72,52L 72,56Z" style="fill:rgb(242,241,241);"/>
+<path d="M 73,26L 73,27L 80,27L 80,26Z" style="fill:rgb(242,241,241);"/>
+<path d="M 80,35L 76,35L 76,33L 74,33L 74,36L 75,36L 75,37L 76,37L 76,36L 80,36Z" style="fill:rgb(242,241,241);"/>
+<path d="M 76,74L 76,70L 79,70L 79,69L 74,69L 74,72L 75,72L 75,74Z" style="fill:rgb(242,241,241);"/>
+<path d="M 84,39L 76,39L 76,40L 84,40Z" style="fill:rgb(242,241,241);"/>
+<path d="M 84,98L 84,95L 75,95L 75,96L 83,96L 83,98Z" style="fill:rgb(242,241,241);"/>
+<path d="M 86,24L 86,23L 88,23L 88,22L 85,22L 85,21L 84,21L 84,22L 79,22L 79,23L 84,23L 84,25L 85,25L 85,24Z" style="fill:rgb(242,241,241);"/>
+<path d="M 85,73L 85,69L 84,69L 84,68L 82,68L 82,67L 81,67L 81,68L 80,68L 80,69L 79,69L 79,70L 84,70L 84,73Z" style="fill:rgb(242,241,241);"/>
+<path d="M 88,13L 85,13L 85,10L 86,10L 86,9L 87,9L 87,8L 85,8L 85,9L 81,9L 81,10L 84,10L 84,17L 85,17L 85,14L 88,14Z" style="fill:rgb(242,241,241);"/>
+<path d="M 85,30L 84,30L 84,40L 85,40Z" style="fill:rgb(242,241,241);"/>
+<path d="M 88,80L 87,80L 87,81L 88,81L 88,82L 87,82L 87,83L 88,83L 88,85L 89,85L 89,83L 98,83L 98,81L 97,81L 97,82L 89,82L 89,79L 93,79L 93,78L 89,78L 89,77L 88,77Z" style="fill:rgb(242,241,241);"/>
+<path d="M 91,98L 91,101L 92,101L 92,104L 95,104L 95,103L 94,103L 94,101L 95,101L 95,98L 94,98L 94,97L 93,97L 93,98Z" style="fill:rgb(242,241,241);"/>
+<path d="M 101,39L 94,39L 94,40L 97,40L 97,42L 98,42L 98,40L 101,40Z" style="fill:rgb(242,241,241);"/>
+<path d="M 97,9L 97,7L 98,7L 98,5L 96,5L 96,6L 93,6L 93,7L 94,7L 94,8L 95,8L 95,9Z" style="fill:rgb(242,241,241);"/>
+<path d="M 98,111L 97,111L 97,120L 98,120L 98,113L 101,113L 101,112L 98,112Z" style="fill:rgb(242,241,241);"/>
+<path d="M 102,75L 102,66L 104,66L 104,67L 105,67L 105,65L 102,65L 102,61L 101,61L 101,65L 100,65L 100,66L 101,66L 101,69L 100,69L 100,72L 101,72L 101,73L 100,73L 100,75Z" style="fill:rgb(242,241,241);"/>
+<path d="M 107,26L 106,26L 106,23L 107,23L 107,22L 102,22L 102,21L 101,21L 101,34L 102,34L 102,27L 107,27ZM 105,26L 102,26L 102,23L 105,23Z" style="fill:rgb(242,241,241);"/>
+<path d="M 103,42L 102,42L 102,40L 108,40L 108,39L 107,39L 107,38L 106,38L 106,39L 102,39L 102,34L 101,34L 101,48L 102,48L 102,44L 103,44Z" style="fill:rgb(242,241,241);"/>
+<path d="M 110,56L 102,56L 102,53L 101,53L 101,61L 102,61L 102,57L 110,57Z" style="fill:rgb(242,241,241);"/>
+<path d="M 106,108L 102,108L 102,104L 101,104L 101,113L 105,113L 105,112L 104,112L 104,111L 102,111L 102,109L 106,109Z" style="fill:rgb(242,241,241);"/>
+<path d="M 102,127L 104,127L 104,125L 102,125L 102,113L 101,113L 101,128L 102,128Z" style="fill:rgb(242,241,241);"/>
+<path d="M 115,14L 115,10L 116,10L 116,9L 106,9L 106,10L 114,10L 114,14Z" style="fill:rgb(242,241,241);"/>
+<path d="M 118,57L 118,52L 106,52L 106,53L 114,53L 114,57Z" style="fill:rgb(242,241,241);"/>
+<path d="M 112,111L 111,111L 111,112L 105,112L 105,113L 114,113L 114,112L 112,112Z" style="fill:rgb(242,241,241);"/>
+<path d="M 112,127L 112,126L 113,126L 113,127L 114,127L 114,125L 104,125L 104,127L 105,127L 105,126L 111,126L 111,127Z" style="fill:rgb(242,241,241);"/>
+<path d="M 108,39L 108,40L 118,40L 118,39Z" style="fill:rgb(242,241,241);"/>
+<path d="M 123,86L 123,83L 126,83L 126,82L 110,82L 110,83L 122,83L 122,86Z" style="fill:rgb(242,241,241);"/>
+<path d="M 120,99L 118,99L 118,95L 109,95L 109,96L 115,96L 115,99L 114,99L 114,100L 120,100Z" style="fill:rgb(242,241,241);"/>
+<path d="M 117,26L 114,26L 114,31L 115,31L 115,27L 117,27Z" style="fill:rgb(242,241,241);"/>
+<path d="M 116,72L 115,72L 115,70L 118,70L 118,69L 113,69L 113,70L 114,70L 114,74L 115,74L 115,73L 116,73Z" style="fill:rgb(242,241,241);"/>
+<path d="M 115,111L 114,111L 114,119L 115,119L 115,113L 116,113L 116,112L 115,112Z" style="fill:rgb(242,241,241);"/>
+<path d="M 117,124L 116,124L 116,122L 115,122L 115,119L 114,119L 114,125L 117,125Z" style="fill:rgb(242,241,241);"/>
+<path d="M 119,128L 119,126L 122,126L 122,125L 114,125L 114,128L 115,128L 115,126L 118,126L 118,128Z" style="fill:rgb(242,241,241);"/>
+<path d="M 128,9L 116,9L 116,10L 118,10L 118,17L 119,17L 119,10L 128,10Z" style="fill:rgb(242,241,241);"/>
+<path d="M 122,112L 116,112L 116,113L 118,113L 118,120L 119,120L 119,113L 122,113Z" style="fill:rgb(242,241,241);"/>
+<path d="M 122,22L 117,22L 117,23L 118,23L 118,25L 119,25L 119,23L 122,23Z" style="fill:rgb(242,241,241);"/>
+<path d="M 119,30L 119,25L 118,25L 118,26L 117,26L 117,27L 118,27L 118,30Z" style="fill:rgb(242,241,241);"/>
+<path d="M 128,52L 118,52L 118,59L 119,59L 119,53L 128,53Z" style="fill:rgb(242,241,241);"/>
+<path d="M 118,72L 117,72L 117,73L 118,73L 118,77L 119,77L 119,70L 122,70L 122,69L 118,69Z" style="fill:rgb(242,241,241);"/>
+<path d="M 123,86L 118,86L 118,91L 119,91L 119,87L 123,87Z" style="fill:rgb(242,241,241);"/>
+<path d="M 128,48L 128,39L 118,39L 118,40L 127,40L 127,48Z" style="fill:rgb(242,241,241);"/>
+<path d="M 126,95L 119,95L 119,94L 118,94L 118,99L 119,99L 119,96L 126,96Z" style="fill:rgb(242,241,241);"/>
+<path d="M 123,128L 123,126L 127,126L 127,128L 128,128L 128,125L 122,125L 122,128Z" style="fill:rgb(242,241,241);"/>
+<path d="M 128,108L 128,99L 126,99L 126,100L 127,100L 127,108Z" style="fill:rgb(242,241,241);"/>
+<path d="M 3,35L 3,31L 0,31L 0,35Z" style="fill:rgb(230,230,229);"/>
+<path d="M 3,52L 3,48L 0,48L 0,52Z" style="fill:rgb(230,230,229);"/>
+<path d="M 6,0L 3,0L 3,5L 4,5L 4,1L 6,1Z" style="fill:rgb(230,230,229);"/>
+<path d="M 3,14L 7,14L 7,10L 3,10Z" style="fill:rgb(230,230,229);"/>
+<path d="M 7,35L 3,35L 3,39L 5,39L 5,38L 4,38L 4,37L 5,37L 5,36L 7,36Z" style="fill:rgb(230,230,229);"/>
+<path d="M 7,48L 7,44L 3,44L 3,48Z" style="fill:rgb(230,230,229);"/>
+<path d="M 7,57L 7,53L 3,53L 3,57Z" style="fill:rgb(230,230,229);"/>
+<path d="M 7,78L 3,78L 3,82L 4,82L 4,79L 7,79Z" style="fill:rgb(230,230,229);"/>
+<path d="M 7,100L 7,96L 3,96L 3,100Z" style="fill:rgb(230,230,229);"/>
+<path d="M 7,117L 7,113L 3,113L 3,117Z" style="fill:rgb(230,230,229);"/>
+<path d="M 7,121L 3,121L 3,125L 7,125Z" style="fill:rgb(230,230,229);"/>
+<path d="M 6,0L 6,1L 13,1L 13,0Z" style="fill:rgb(230,230,229);"/>
+<path d="M 11,40L 8,40L 8,44L 11,44Z" style="fill:rgb(230,230,229);"/>
+<path d="M 7,52L 11,52L 11,48L 7,48Z" style="fill:rgb(230,230,229);"/>
+<path d="M 7,95L 10,95L 10,93L 11,93L 11,91L 7,91Z" style="fill:rgb(230,230,229);"/>
+<path d="M 7,108L 7,112L 11,112L 11,108Z" style="fill:rgb(230,230,229);"/>
+<path d="M 16,22L 16,18L 12,18L 12,22Z" style="fill:rgb(230,230,229);"/>
+<path d="M 16,30L 16,28L 15,28L 15,27L 12,27L 12,31L 14,31L 14,29L 15,29L 15,30Z" style="fill:rgb(230,230,229);"/>
+<path d="M 16,61L 12,61L 12,65L 16,65Z" style="fill:rgb(230,230,229);"/>
+<path d="M 16,108L 16,104L 12,104L 12,108Z" style="fill:rgb(230,230,229);"/>
+<path d="M 23,82L 16,82L 16,81L 15,81L 15,83L 23,83Z" style="fill:rgb(230,230,229);"/>
+<path d="M 20,14L 24,14L 24,10L 20,10Z" style="fill:rgb(230,230,229);"/>
+<path d="M 24,56L 23,56L 23,54L 21,54L 21,53L 20,53L 20,57L 24,57Z" style="fill:rgb(230,230,229);"/>
+<path d="M 24,78L 20,78L 20,82L 24,82Z" style="fill:rgb(230,230,229);"/>
+<path d="M 24,104L 20,104L 20,108L 24,108Z" style="fill:rgb(230,230,229);"/>
+<path d="M 27,88L 27,83L 24,83L 24,87L 26,87L 26,88Z" style="fill:rgb(230,230,229);"/>
+<path d="M 24,34L 25,34L 25,35L 28,35L 28,31L 24,31Z" style="fill:rgb(230,230,229);"/>
+<path d="M 25,69L 28,69L 28,66L 25,66Z" style="fill:rgb(230,230,229);"/>
+<path d="M 31,48L 31,45L 29,45L 29,48Z" style="fill:rgb(230,230,229);"/>
+<path d="M 39,113L 37,113L 37,117L 39,117L 39,115L 40,115L 40,114L 39,114Z" style="fill:rgb(230,230,229);"/>
+<path d="M 39,32L 39,31L 41,31L 41,27L 38,27L 38,28L 37,28L 37,35L 38,35L 38,32Z" style="fill:rgb(230,230,229);"/>
+<path d="M 37,125L 41,125L 41,121L 37,121Z" style="fill:rgb(230,230,229);"/>
+<path d="M 49,0L 42,0L 42,1L 49,1Z" style="fill:rgb(230,230,229);"/>
+<path d="M 46,50L 46,48L 42,48L 42,51L 44,51L 44,50Z" style="fill:rgb(230,230,229);"/>
+<path d="M 46,50L 44,50L 44,51L 42,51L 42,52L 46,52Z" style="fill:rgb(230,230,229);"/>
+<path d="M 44,126L 44,127L 42,127L 42,128L 46,128L 46,126Z" style="fill:rgb(230,230,229);"/>
+<path d="M 50,82L 50,78L 46,78L 46,81L 49,81L 49,82Z" style="fill:rgb(230,230,229);"/>
+<path d="M 47,118L 48,118L 48,119L 49,119L 49,118L 50,118L 50,113L 47,113Z" style="fill:rgb(230,230,229);"/>
+<path d="M 54,95L 54,91L 50,91L 50,95Z" style="fill:rgb(230,230,229);"/>
+<path d="M 54,104L 54,100L 50,100L 50,104Z" style="fill:rgb(230,230,229);"/>
+<path d="M 55,48L 58,48L 58,44L 55,44Z" style="fill:rgb(230,230,229);"/>
+<path d="M 61,82L 59,82L 59,77L 58,77L 58,79L 55,79L 55,82L 58,82L 58,83L 61,83Z" style="fill:rgb(230,230,229);"/>
+<path d="M 59,77L 59,70L 58,70L 58,77Z" style="fill:rgb(230,230,229);"/>
+<path d="M 63,0L 59,0L 59,1L 63,1ZM 67,0L 64,0L 64,1L 67,1Z" style="fill:rgb(230,230,229);"/>
+<path d="M 63,83L 59,83L 59,86L 63,86Z" style="fill:rgb(230,230,229);"/>
+<path d="M 64,60L 64,58L 63,58L 63,57L 62,57L 62,61L 63,61L 63,60Z" style="fill:rgb(230,230,229);"/>
+<path d="M 67,35L 63,35L 63,39L 67,39Z" style="fill:rgb(230,230,229);"/>
+<path d="M 67,60L 66,60L 66,61L 64,61L 64,60L 63,60L 63,65L 67,65Z" style="fill:rgb(230,230,229);"/>
+<path d="M 67,78L 63,78L 63,82L 67,82Z" style="fill:rgb(230,230,229);"/>
+<path d="M 67,116L 66,116L 66,115L 63,115L 63,117L 67,117Z" style="fill:rgb(230,230,229);"/>
+<path d="M 63,21L 64,21L 64,22L 67,22L 67,19L 63,19Z" style="fill:rgb(230,230,229);"/>
+<path d="M 71,5L 67,5L 67,9L 71,9Z" style="fill:rgb(230,230,229);"/>
+<path d="M 71,41L 70,41L 70,40L 69,40L 69,41L 68,41L 68,44L 71,44Z" style="fill:rgb(230,230,229);"/>
+<path d="M 80,99L 72,99L 72,100L 80,100Z" style="fill:rgb(230,230,229);"/>
+<path d="M 75,36L 74,36L 74,39L 73,39L 73,40L 76,40L 76,37L 75,37Z" style="fill:rgb(230,230,229);"/>
+<path d="M 76,118L 76,115L 75,115L 75,113L 74,113L 74,119L 75,119L 75,118Z" style="fill:rgb(230,230,229);"/>
+<path d="M 83,91L 83,89L 82,89L 82,87L 80,87L 80,91Z" style="fill:rgb(230,230,229);"/>
+<path d="M 83,100L 83,99L 84,99L 84,98L 83,98L 83,96L 80,96L 80,100Z" style="fill:rgb(230,230,229);"/>
+<path d="M 85,112L 85,106L 84,106L 84,105L 83,105L 83,106L 82,106L 82,104L 80,104L 80,108L 84,108L 84,112Z" style="fill:rgb(230,230,229);"/>
+<path d="M 84,116L 84,113L 80,113L 80,119L 82,119L 82,117L 83,117L 83,116Z" style="fill:rgb(230,230,229);"/>
+<path d="M 84,78L 80,78L 80,81L 81,81L 81,80L 83,80L 83,79L 84,79Z" style="fill:rgb(230,230,229);"/>
+<path d="M 89,59L 89,57L 87,57L 87,58L 86,58L 86,60L 85,60L 85,62L 86,62L 86,63L 89,63L 89,62L 88,62L 88,61L 87,61L 87,60L 88,60L 88,59Z" style="fill:rgb(230,230,229);"/>
+<path d="M 88,57L 93,57L 93,56L 90,56L 90,55L 88,55Z" style="fill:rgb(230,230,229);"/>
+<path d="M 93,13L 92,13L 92,12L 89,12L 89,14L 93,14Z" style="fill:rgb(230,230,229);"/>
+<path d="M 93,20L 93,18L 89,18L 89,21L 90,21L 90,22L 92,22L 92,20Z" style="fill:rgb(230,230,229);"/>
+<path d="M 89,65L 91,65L 91,64L 92,64L 92,65L 93,65L 93,61L 89,61L 89,63L 88,63L 88,64L 89,64Z" style="fill:rgb(230,230,229);"/>
+<path d="M 93,4L 93,0L 89,0L 89,1L 91,1L 91,2L 92,2L 92,4Z" style="fill:rgb(230,230,229);"/>
+<path d="M 93,38L 92,38L 92,42L 94,42L 94,41L 95,41L 95,40L 93,40Z" style="fill:rgb(230,230,229);"/>
+<path d="M 97,48L 93,48L 93,52L 97,52Z" style="fill:rgb(230,230,229);"/>
+<path d="M 98,85L 98,83L 93,83L 93,85L 96,85L 96,84L 97,84L 97,85Z" style="fill:rgb(230,230,229);"/>
+<path d="M 95,94L 95,93L 96,93L 96,92L 97,92L 97,91L 93,91L 93,97L 94,97L 94,94Z" style="fill:rgb(230,230,229);"/>
+<path d="M 91,48L 93,48L 93,44L 97,44L 97,42L 96,42L 96,43L 95,43L 95,42L 91,42Z" style="fill:rgb(230,230,229);"/>
+<path d="M 93,85L 93,87L 97,87L 97,84L 96,84L 96,85Z" style="fill:rgb(230,230,229);"/>
+<path d="M 98,60L 97,60L 97,65L 98,65L 98,63L 99,63L 99,62L 100,62L 100,63L 101,63L 101,61L 98,61Z" style="fill:rgb(230,230,229);"/>
+<path d="M 101,117L 101,113L 98,113L 98,117Z" style="fill:rgb(230,230,229);"/>
+<path d="M 95,99L 95,100L 101,100L 101,98L 100,98L 100,99Z" style="fill:rgb(230,230,229);"/>
+<path d="M 106,52L 106,48L 102,48L 102,52L 104,52L 104,51L 105,51L 105,52Z" style="fill:rgb(230,230,229);"/>
+<path d="M 103,43L 103,44L 106,44L 106,40L 105,40L 105,43Z" style="fill:rgb(230,230,229);"/>
+<path d="M 114,5L 110,5L 110,9L 112,9L 112,8L 111,8L 111,7L 112,7L 112,6L 114,6Z" style="fill:rgb(230,230,229);"/>
+<path d="M 114,22L 109,22L 109,23L 110,23L 110,26L 109,26L 109,27L 114,27Z" style="fill:rgb(230,230,229);"/>
+<path d="M 109,65L 109,66L 110,66L 110,69L 114,69L 114,65Z" style="fill:rgb(230,230,229);"/>
+<path d="M 114,75L 113,75L 113,76L 112,76L 112,75L 111,75L 111,74L 110,74L 110,78L 114,78Z" style="fill:rgb(230,230,229);"/>
+<path d="M 114,87L 114,83L 110,83L 110,87Z" style="fill:rgb(230,230,229);"/>
+<path d="M 114,127L 113,127L 113,126L 112,126L 112,127L 111,127L 111,126L 110,126L 110,128L 114,128Z" style="fill:rgb(230,230,229);"/>
+<path d="M 114,35L 114,31L 112,31L 112,33L 111,33L 111,35Z" style="fill:rgb(230,230,229);"/>
+<path d="M 117,125L 119,125L 119,120L 118,120L 118,121L 115,121L 115,122L 116,122L 116,124L 117,124Z" style="fill:rgb(230,230,229);"/>
+<path d="M 118,10L 115,10L 115,14L 118,14Z" style="fill:rgb(230,230,229);"/>
+<path d="M 119,22L 119,17L 118,17L 118,18L 114,18L 114,22L 115,22L 115,20L 116,20L 116,19L 117,19L 117,20L 118,20L 118,22Z" style="fill:rgb(230,230,229);"/>
+<path d="M 119,108L 119,104L 115,104L 115,103L 114,103L 114,108L 115,108L 115,106L 116,106L 116,105L 117,105L 117,106L 118,106L 118,108Z" style="fill:rgb(230,230,229);"/>
+<path d="M 115,113L 115,117L 118,117L 118,113Z" style="fill:rgb(230,230,229);"/>
+<path d="M 37,104L 37,102L 34,102L 34,103L 33,103L 33,104Z" style="fill:rgb(239,231,233);"/>
+<path d="M 40,60L 39,60L 39,59L 38,59L 38,58L 36,58L 36,59L 37,59L 37,65L 38,65L 38,63L 39,63L 39,62L 40,62Z" style="fill:rgb(239,231,233);"/>
+<path d="M 49,120L 53,120L 53,118L 49,118Z" style="fill:rgb(239,231,233);"/>
+<path d="M 70,106L 67,106L 67,104L 65,104L 65,105L 63,105L 63,107L 70,107Z" style="fill:rgb(239,231,233);"/>
+<path d="M 90,51L 89,51L 89,55L 90,55L 90,53L 92,53L 92,52L 90,52Z" style="fill:rgb(239,231,233);"/>
+<path d="M 44,55L 43,55L 43,54L 42,54L 42,52L 41,52L 41,51L 40,51L 40,49L 39,49L 39,46L 38,46L 38,45L 37,45L 37,42L 36,42L 36,40L 35,40L 35,41L 34,41L 34,40L 33,40L 33,39L 32,39L 32,38L 33,38L 33,37L 27,37L 27,36L 24,36L 24,35L 23,35L 23,34L 22,34L 22,27L 23,27L 23,25L 24,25L 24,23L 23,23L 23,22L 24,22L 24,21L 25,21L 25,22L 26,22L 26,21L 27,21L 27,20L 28,20L 28,19L 32,19L 32,20L 33,20L 33,21L 34,21L 34,23L 35,23L 35,24L 36,24L 36,25L 37,25L 37,27L 42,27L 42,26L 43,26L 43,25L 45,25L 45,24L 46,24L 46,23L 49,23L 49,22L 50,22L 50,21L 47,21L 47,17L 44,17L 44,18L 43,18L 43,20L 40,20L 40,18L 39,18L 39,17L 38,17L 38,16L 37,16L 37,15L 36,15L 36,14L 34,14L 34,15L 28,15L 28,16L 25,16L 25,17L 24,17L 24,16L 22,16L 22,17L 21,17L 21,18L 20,18L 20,20L 19,20L 19,21L 18,21L 18,23L 17,23L 17,28L 18,28L 18,36L 17,36L 17,38L 18,38L 18,39L 19,39L 19,40L 20,40L 20,41L 22,41L 22,42L 25,42L 25,41L 29,41L 29,42L 30,42L 30,45L 31,45L 31,48L 32,48L 32,49L 33,49L 33,52L 34,52L 34,53L 35,53L 35,55L 36,55L 36,56L 37,56L 37,57L 38,57L 38,59L 39,59L 39,60L 42,60L 42,61L 43,61L 43,62L 44,62L 44,59L 47,59L 47,58L 46,58L 46,57L 45,57L 45,56L 44,56Z" style="fill:rgb(65,154,134);"/>
+<path d="M 49,91L 49,86L 48,86L 48,87L 47,87L 47,84L 46,84L 46,83L 44,83L 44,84L 43,84L 43,88L 42,88L 42,93L 40,93L 40,94L 39,94L 39,95L 34,95L 34,94L 33,94L 33,93L 32,93L 32,88L 33,88L 33,87L 32,87L 32,85L 31,85L 31,83L 30,83L 30,85L 29,85L 29,89L 28,89L 28,95L 27,95L 27,96L 28,96L 28,98L 29,98L 29,99L 31,99L 31,100L 32,100L 32,99L 35,99L 35,100L 41,100L 41,111L 42,111L 42,117L 41,117L 41,120L 42,120L 42,121L 43,121L 43,122L 44,122L 44,124L 46,124L 46,125L 47,125L 47,126L 57,126L 57,124L 54,124L 54,125L 52,125L 52,123L 53,123L 53,122L 52,122L 52,121L 53,121L 53,120L 49,120L 49,119L 48,119L 48,118L 47,118L 47,113L 44,113L 44,99L 45,99L 45,100L 46,100L 46,96L 47,96L 47,94L 48,94L 48,91Z" style="fill:rgb(65,154,134);"/>
+<path d="M 36,74L 35,74L 35,75L 34,75L 34,79L 33,79L 33,80L 32,80L 32,81L 31,81L 31,85L 32,85L 32,87L 34,87L 34,85L 36,85L 36,82L 37,82L 37,81L 38,81L 38,80L 39,80L 39,79L 40,79L 40,78L 41,78L 41,77L 42,77L 42,76L 43,76L 43,75L 45,75L 45,74L 46,74L 46,73L 47,73L 47,72L 44,72L 44,71L 43,71L 43,70L 42,70L 42,69L 41,69L 41,70L 40,70L 40,71L 39,71L 39,72L 37,72L 37,73L 36,73Z" style="fill:rgb(65,154,134);"/>
+<path d="M 55,44L 55,39L 54,39L 54,37L 53,37L 53,36L 52,36L 52,35L 48,35L 48,36L 49,36L 49,40L 50,40L 50,42L 49,42L 49,44L 50,44L 50,45L 53,45L 53,44Z" style="fill:rgb(65,154,134);"/>
+<path d="M 72,17L 62,17L 62,19L 63,19L 63,18L 72,18Z" style="fill:rgb(108,177,160);"/>
+<path d="M 53,70L 53,69L 54,69L 54,68L 55,68L 55,65L 54,65L 54,64L 50,64L 50,63L 49,63L 49,65L 50,65L 50,67L 49,67L 49,69L 51,69L 51,70Z" style="fill:rgb(90,166,148);"/>
+<path d="M 61,18L 55,18L 55,17L 56,17L 56,16L 53,16L 53,17L 52,17L 52,19L 55,19L 55,20L 56,20L 56,19L 61,19Z" style="fill:rgb(90,166,148);"/>
+<path d="M 68,111L 62,111L 62,109L 65,109L 65,107L 61,107L 61,108L 57,108L 57,109L 58,109L 58,114L 59,114L 59,113L 65,113L 65,112L 68,112Z" style="fill:rgb(90,166,148);"/>
+<path d="M 58,48L 57,48L 57,50L 58,50L 58,54L 60,54L 60,52L 61,52L 61,51L 60,51L 60,48L 62,48L 62,47L 58,47Z" style="fill:rgb(90,166,148);"/>
+<path d="M 66,48L 66,46L 60,46L 60,47L 62,47L 62,48L 60,48L 60,51L 61,51L 61,52L 60,52L 60,54L 58,54L 58,55L 65,55L 65,51L 64,51L 64,52L 63,52L 63,50L 64,50L 64,48Z" style="fill:rgb(90,166,148);"/>
+<path d="M 66,61L 66,54L 65,54L 65,55L 64,55L 64,61Z" style="fill:rgb(90,166,148);"/>
+<path d="M 8,10L 7,10L 7,18L 8,18Z" style="fill:rgb(248,247,247);"/>
+<path d="M 8,35L 8,27L 7,27L 7,35Z" style="fill:rgb(248,247,247);"/>
+<path d="M 8,73L 8,70L 7,70L 7,73ZM 8,78L 8,74L 7,74L 7,78Z" style="fill:rgb(248,247,247);"/>
+<path d="M 8,104L 8,100L 10,100L 10,99L 8,99L 8,96L 11,96L 11,95L 6,95L 6,96L 7,96L 7,104Z" style="fill:rgb(248,247,247);"/>
+<path d="M 11,56L 8,56L 8,57L 7,57L 7,60L 8,60L 8,57L 11,57Z" style="fill:rgb(248,247,247);"/>
+<path d="M 12,86L 12,87L 20,87L 20,86Z" style="fill:rgb(248,247,247);"/>
+<path d="M 18,69L 16,69L 16,66L 15,66L 15,69L 14,69L 14,70L 18,70Z" style="fill:rgb(248,247,247);"/>
+<path d="M 20,128L 20,126L 12,126L 12,128Z" style="fill:rgb(248,247,247);"/>
+<path d="M 24,42L 20,42L 20,44L 23,44L 23,43L 24,43Z" style="fill:rgb(248,247,247);"/>
+<path d="M 23,43L 23,44L 24,44L 24,48L 25,48L 25,44L 26,44L 26,43Z" style="fill:rgb(248,247,247);"/>
+<path d="M 26,95L 26,93L 25,93L 25,90L 24,90L 24,98L 25,98L 25,96L 27,96L 27,95Z" style="fill:rgb(248,247,247);"/>
+<path d="M 24,22L 23,22L 23,23L 24,23L 24,25L 23,25L 23,29L 24,29L 24,31L 25,31L 25,27L 28,27L 28,23L 26,23L 26,22L 25,22L 25,21L 24,21Z" style="fill:rgb(248,247,247);"/>
+<path d="M 30,81L 30,80L 31,80L 31,79L 30,79L 30,78L 29,78L 29,77L 28,77L 28,78L 25,78L 25,79L 28,79L 28,81Z" style="fill:rgb(248,247,247);"/>
+<path d="M 29,125L 29,120L 28,120L 28,121L 25,121L 25,122L 28,122L 28,125Z" style="fill:rgb(248,247,247);"/>
+<path d="M 36,24L 35,24L 35,23L 33,23L 33,27L 37,27L 37,25L 36,25Z" style="fill:rgb(248,247,247);"/>
+<path d="M 42,9L 42,0L 37,0L 37,1L 41,1L 41,9Z" style="fill:rgb(248,247,247);"/>
+<path d="M 40,70L 39,70L 39,69L 38,69L 38,66L 41,66L 41,67L 43,67L 43,66L 42,66L 42,65L 37,65L 37,69L 36,69L 36,70L 37,70L 37,71L 38,71L 38,72L 39,72L 39,71L 40,71Z" style="fill:rgb(248,247,247);"/>
+<path d="M 39,107L 39,101L 37,101L 37,106L 38,106L 38,107Z" style="fill:rgb(248,247,247);"/>
+<path d="M 37,112L 39,112L 39,107L 38,107L 38,106L 37,106Z" style="fill:rgb(248,247,247);"/>
+<path d="M 36,86L 35,86L 35,87L 41,87L 41,89L 42,89L 42,88L 43,88L 43,86L 37,86L 37,84L 36,84Z" style="fill:rgb(248,247,247);"/>
+<path d="M 42,92L 41,92L 41,91L 37,91L 37,94L 40,94L 40,93L 42,93Z" style="fill:rgb(248,247,247);"/>
+<path d="M 40,46L 40,44L 41,44L 41,43L 38,43L 38,46Z" style="fill:rgb(248,247,247);"/>
+<path d="M 48,35L 42,35L 42,36L 46,36L 46,38L 47,38L 47,36L 48,36Z" style="fill:rgb(248,247,247);"/>
+<path d="M 41,78L 40,78L 40,79L 46,79L 46,76L 45,76L 45,77L 44,77L 44,78L 43,78L 43,77L 41,77Z" style="fill:rgb(248,247,247);"/>
+<path d="M 47,96L 46,96L 46,99L 47,99L 47,98L 48,98L 48,96L 54,96L 54,95L 49,95L 49,93L 48,93L 48,94L 47,94Z" style="fill:rgb(248,247,247);"/>
+<path d="M 55,116L 50,116L 50,118L 53,118L 53,120L 54,120L 54,117L 55,117Z" style="fill:rgb(248,247,247);"/>
+<path d="M 58,54L 57,54L 57,53L 56,53L 56,52L 54,52L 54,62L 56,62L 56,61L 55,61L 55,57L 58,57Z" style="fill:rgb(248,247,247);"/>
+<path d="M 55,108L 54,108L 54,116L 55,116ZM 55,119L 55,117L 54,117L 54,119Z" style="fill:rgb(248,247,247);"/>
+<path d="M 57,50L 57,48L 54,48L 54,52L 56,52L 56,50Z" style="fill:rgb(248,247,247);"/>
+<path d="M 63,86L 55,86L 55,87L 58,87L 58,90L 59,90L 59,87L 63,87Z" style="fill:rgb(248,247,247);"/>
+<path d="M 64,55L 60,55L 60,56L 61,56L 61,57L 63,57L 63,58L 64,58Z" style="fill:rgb(248,247,247);"/>
+<path d="M 67,45L 67,43L 63,43L 63,45Z" style="fill:rgb(248,247,247);"/>
+<path d="M 67,86L 63,86L 63,91L 67,91Z" style="fill:rgb(248,247,247);"/>
+<path d="M 68,116L 67,116L 67,125L 68,125L 68,122L 69,122L 69,121L 68,121Z" style="fill:rgb(248,247,247);"/>
+<path d="M 67,82L 66,82L 66,83L 69,83L 69,82L 68,82L 68,79L 71,79L 71,78L 67,78Z" style="fill:rgb(248,247,247);"/>
+<path d="M 71,99L 68,99L 68,100L 67,100L 67,104L 68,104L 68,100L 71,100Z" style="fill:rgb(248,247,247);"/>
+<path d="M 76,56L 72,56L 72,51L 71,51L 71,52L 70,52L 70,53L 71,53L 71,72L 72,72L 72,70L 74,70L 74,69L 72,69L 72,66L 75,66L 75,65L 72,65L 72,57L 76,57Z" style="fill:rgb(248,247,247);"/>
+<path d="M 75,111L 75,108L 76,108L 76,104L 72,104L 72,102L 71,102L 71,104L 70,104L 70,105L 71,105L 71,106L 73,106L 73,107L 74,107L 74,111Z" style="fill:rgb(248,247,247);"/>
+<path d="M 75,5L 72,5L 72,9L 73,9L 73,7L 74,7L 74,6L 75,6Z" style="fill:rgb(248,247,247);"/>
+<path d="M 79,64L 78,64L 78,62L 77,62L 77,61L 76,61L 76,57L 75,57L 75,63L 76,63L 76,64L 77,64L 77,65L 79,65Z" style="fill:rgb(248,247,247);"/>
+<path d="M 79,60L 78,60L 78,59L 79,59L 79,58L 80,58L 80,56L 76,56L 76,61L 77,61L 77,62L 78,62L 78,61L 79,61Z" style="fill:rgb(248,247,247);"/>
+<path d="M 85,75L 85,74L 88,74L 88,77L 89,77L 89,74L 91,74L 91,73L 84,73L 84,75Z" style="fill:rgb(248,247,247);"/>
+<path d="M 88,80L 88,78L 85,78L 85,77L 84,77L 84,79L 85,79L 85,80Z" style="fill:rgb(248,247,247);"/>
+<path d="M 92,2L 91,2L 91,1L 89,1L 89,0L 88,0L 88,1L 87,1L 87,2L 90,2L 90,3L 92,3Z" style="fill:rgb(248,247,247);"/>
+<path d="M 91,90L 91,87L 93,87L 93,86L 89,86L 89,88L 90,88L 90,90Z" style="fill:rgb(248,247,247);"/>
+<path d="M 93,113L 97,113L 97,112L 92,112L 92,111L 91,111L 91,115L 93,115Z" style="fill:rgb(248,247,247);"/>
+<path d="M 93,98L 93,94L 92,94L 92,95L 91,95L 91,98Z" style="fill:rgb(248,247,247);"/>
+<path d="M 93,34L 92,34L 92,36L 97,36L 97,35L 93,35Z" style="fill:rgb(248,247,247);"/>
+<path d="M 98,31L 98,27L 101,27L 101,26L 96,26L 96,27L 97,27L 97,31Z" style="fill:rgb(248,247,247);"/>
+<path d="M 98,47L 97,47L 97,51L 98,51L 98,49L 101,49L 101,48L 98,48Z" style="fill:rgb(248,247,247);"/>
+<path d="M 99,92L 99,85L 97,85L 97,92Z" style="fill:rgb(248,247,247);"/>
+<path d="M 98,111L 98,109L 101,109L 101,108L 97,108L 97,111Z" style="fill:rgb(248,247,247);"/>
+<path d="M 100,21L 102,21L 102,19L 105,19L 105,22L 106,22L 106,18L 102,18L 102,15L 103,15L 103,14L 100,14Z" style="fill:rgb(248,247,247);"/>
+<path d="M 110,121L 102,121L 102,122L 110,122Z" style="fill:rgb(248,247,247);"/>
+<path d="M 105,35L 102,35L 102,36L 105,36ZM 110,35L 106,35L 106,36L 110,36Z" style="fill:rgb(248,247,247);"/>
+<path d="M 106,82L 106,79L 110,79L 110,78L 103,78L 103,80L 104,80L 104,82Z" style="fill:rgb(248,247,247);"/>
+<path d="M 107,90L 107,87L 110,87L 110,86L 106,86L 106,90Z" style="fill:rgb(248,247,247);"/>
+<path d="M 114,104L 110,104L 110,108L 111,108L 111,105L 114,105Z" style="fill:rgb(248,247,247);"/>
+<path d="M 115,43L 115,40L 114,40L 114,43ZM 115,48L 115,44L 114,44L 114,48Z" style="fill:rgb(248,247,247);"/>
+<path d="M 119,69L 119,66L 122,66L 122,65L 119,65L 119,64L 118,64L 118,65L 114,65L 114,69L 115,69L 115,66L 118,66L 118,69Z" style="fill:rgb(248,247,247);"/>
+<path d="M 115,85L 114,85L 114,91L 115,91Z" style="fill:rgb(248,247,247);"/>
+<path d="M 119,94L 119,91L 115,91L 115,92L 118,92L 118,94Z" style="fill:rgb(248,247,247);"/>
+<path d="M 119,112L 119,109L 122,109L 122,112L 123,112L 123,108L 110,108L 110,109L 111,109L 111,110L 112,110L 112,109L 114,109L 114,111L 115,111L 115,109L 118,109L 118,112Z" style="fill:rgb(248,247,247);"/>
+<path d="M 119,43L 119,40L 118,40L 118,43ZM 119,48L 119,44L 118,44L 118,48Z" style="fill:rgb(248,247,247);"/>
+<path d="M 119,56L 119,57L 127,57L 127,56Z" style="fill:rgb(248,247,247);"/>
+<path d="M 126,99L 123,99L 123,96L 122,96L 122,99L 121,99L 121,100L 126,100Z" style="fill:rgb(248,247,247);"/>
+<path d="M 127,112L 122,112L 122,117L 123,117L 123,113L 127,113Z" style="fill:rgb(248,247,247);"/>
+<path d="M 128,61L 128,53L 127,53L 127,61Z" style="fill:rgb(248,247,247);"/>
+<path d="M 128,87L 128,78L 127,78L 127,82L 126,82L 126,83L 127,83L 127,87Z" style="fill:rgb(248,247,247);"/>
+<path d="M 73,14L 72,14L 72,13L 70,13L 70,14L 67,14L 67,15L 66,15L 66,17L 69,17L 69,15L 73,15Z" style="fill:rgb(121,185,169);"/>
+<path d="M 74,107L 73,107L 73,106L 70,106L 70,107L 69,107L 69,112L 70,112L 70,114L 69,114L 69,116L 70,116L 70,121L 72,121L 72,120L 71,120L 71,116L 72,116L 72,115L 73,115L 73,116L 74,116Z" style="fill:rgb(121,185,169);"/>
+<path d="M 78,126L 78,127L 80,127L 80,125L 77,125L 77,122L 78,122L 78,121L 76,121L 76,119L 74,119L 74,122L 73,122L 73,124L 72,124L 72,126Z" style="fill:rgb(121,185,169);"/>
+<path d="M 82,89L 83,89L 83,91L 84,91L 84,84L 85,84L 85,83L 87,83L 87,82L 88,82L 88,81L 87,81L 87,80L 85,80L 85,79L 83,79L 83,80L 81,80L 81,82L 82,82L 82,83L 81,83L 81,85L 82,85Z" style="fill:rgb(121,185,169);"/>
+<path d="M 91,114L 91,98L 90,98L 90,97L 89,97L 89,113L 90,113L 90,114Z" style="fill:rgb(121,185,169);"/>
+<path d="M 71,52L 71,51L 72,51L 72,47L 71,47L 71,46L 66,46L 66,48L 65,48L 65,50L 66,50L 66,51L 65,51L 65,54L 68,54L 68,53L 70,53L 70,52Z" style="fill:rgb(126,188,172);"/>
+<path d="M 103,80L 103,78L 102,78L 102,76L 101,76L 101,75L 100,75L 100,73L 99,73L 99,72L 98,72L 98,71L 97,71L 97,70L 96,70L 96,69L 95,69L 95,68L 94,68L 94,67L 92,67L 92,66L 91,66L 91,65L 89,65L 89,64L 88,64L 88,63L 86,63L 86,62L 85,62L 85,60L 86,60L 86,58L 87,58L 87,57L 88,57L 88,55L 89,55L 89,51L 90,51L 90,48L 91,48L 91,42L 92,42L 92,38L 91,38L 91,29L 93,29L 93,28L 94,28L 94,27L 96,27L 96,26L 97,26L 97,25L 98,25L 98,23L 99,23L 99,22L 100,22L 100,12L 99,12L 99,10L 98,10L 98,9L 95,9L 95,8L 94,8L 94,7L 93,7L 93,6L 94,6L 94,5L 93,5L 93,4L 92,4L 92,3L 89,3L 89,4L 87,4L 87,3L 81,3L 81,2L 78,2L 78,3L 77,3L 77,4L 75,4L 75,6L 74,6L 74,7L 73,7L 73,10L 72,10L 72,14L 73,14L 73,15L 69,15L 69,17L 72,17L 72,18L 69,18L 69,19L 76,19L 76,18L 78,18L 78,16L 79,16L 79,9L 80,9L 80,8L 81,8L 81,7L 84,7L 84,8L 87,8L 87,9L 89,9L 89,10L 90,10L 90,11L 91,11L 91,12L 92,12L 92,13L 93,13L 93,16L 94,16L 94,18L 93,18L 93,20L 92,20L 92,22L 91,22L 91,23L 89,23L 89,24L 91,24L 91,25L 89,25L 89,26L 88,26L 88,25L 86,25L 86,31L 87,31L 87,42L 86,42L 86,43L 85,43L 85,44L 84,44L 84,50L 83,50L 83,52L 82,52L 82,54L 81,54L 81,56L 80,56L 80,58L 79,58L 79,59L 78,59L 78,60L 79,60L 79,61L 78,61L 78,64L 79,64L 79,65L 78,65L 78,66L 79,66L 79,67L 82,67L 82,68L 84,68L 84,69L 85,69L 85,70L 87,70L 87,71L 89,71L 89,73L 91,73L 91,74L 92,74L 92,75L 93,75L 93,76L 94,76L 94,78L 95,78L 95,79L 96,79L 96,80L 97,80L 97,81L 98,81L 98,85L 99,85L 99,89L 100,89L 100,93L 99,93L 99,94L 98,94L 98,93L 95,93L 95,94L 94,94L 94,98L 95,98L 95,99L 100,99L 100,98L 101,98L 101,97L 102,97L 102,96L 103,96L 103,95L 104,95L 104,94L 105,94L 105,90L 106,90L 106,85L 105,85L 105,82L 104,82L 104,80Z" style="fill:rgb(126,188,172);"/>
+<path d="M 73,30L 69,30L 69,31L 68,31L 68,39L 69,39L 69,40L 70,40L 70,41L 72,41L 72,40L 73,40L 73,39L 74,39L 74,31L 73,31Z" style="fill:rgb(126,188,172);"/>
+<path d="M 72,125L 72,124L 73,124L 73,122L 74,122L 74,116L 73,116L 73,115L 72,115L 72,116L 71,116L 71,120L 72,120L 72,121L 71,121L 71,123L 70,123L 70,124L 71,124L 71,125Z" style="fill:rgb(126,188,172);"/>
+<path d="M 77,119L 76,119L 76,121L 78,121L 78,122L 77,122L 77,125L 80,125L 80,126L 83,126L 83,125L 81,125L 81,124L 82,124L 82,122L 83,122L 83,121L 80,121L 80,120L 77,120Z" style="fill:rgb(126,188,172);"/>
+<path d="M 88,121L 88,120L 89,120L 89,117L 90,117L 90,113L 89,113L 89,97L 90,97L 90,98L 91,98L 91,95L 90,95L 90,88L 89,88L 89,85L 88,85L 88,83L 85,83L 85,84L 84,84L 84,91L 83,91L 83,92L 84,92L 84,97L 85,97L 85,95L 86,95L 86,96L 87,96L 87,108L 85,108L 85,112L 84,112L 84,116L 83,116L 83,120L 82,120L 82,121L 83,121L 83,122L 82,122L 82,124L 81,124L 81,125L 84,125L 84,124L 85,124L 85,123L 86,123L 86,122L 87,122L 87,121Z" style="fill:rgb(126,188,172);"/>
+<path d="M 85,108L 87,108L 87,96L 86,96L 86,95L 85,95Z" style="fill:rgb(126,188,172);"/>
+<path d="M 32,101L 40,101L 40,100L 35,100L 35,99L 32,99Z" style="fill:rgb(45,142,120);"/>
+<path d="M 46,107L 46,100L 45,100L 45,99L 44,99L 44,113L 45,113L 45,107Z" style="fill:rgb(45,142,120);"/>
+<path d="M 48,42L 50,42L 50,40L 49,40L 49,36L 47,36L 47,40L 48,40Z" style="fill:rgb(45,142,120);"/>
+<path d="M 59,106L 56,106L 56,108L 61,108L 61,107L 59,107Z" style="fill:rgb(45,142,120);"/>
+<path d="M 70,13L 65,13L 65,14L 64,14L 64,15L 61,15L 61,17L 66,17L 66,15L 67,15L 67,14L 70,14Z" style="fill:rgb(114,181,164);"/>
+<path d="M 69,123L 71,123L 71,121L 70,121L 70,116L 69,116L 69,114L 70,114L 70,112L 69,112L 69,108L 67,108L 67,109L 66,109L 66,111L 68,111L 68,112L 65,112L 65,113L 68,113L 68,121L 69,121Z" style="fill:rgb(114,181,164);"/>
+<path d="M 90,2L 81,2L 81,3L 87,3L 87,4L 89,4L 89,3L 90,3Z" style="fill:rgb(114,181,164);"/>
+<path d="M 86,36L 85,36L 85,43L 86,43L 86,42L 87,42L 87,31L 86,31Z" style="fill:rgb(114,181,164);"/>
+<path d="M 100,89L 99,89L 99,92L 96,92L 96,93L 98,93L 98,94L 99,94L 99,93L 100,93Z" style="fill:rgb(162,202,192);"/>
+<path d="M 49,126L 49,127L 55,127L 55,126Z" style="fill:rgb(149,196,184);"/>
+<path d="M 92,108L 92,101L 91,101L 91,108Z" style="fill:rgb(210,229,225);"/>
+<path d="M 16,28L 16,36L 18,36L 18,28Z" style="fill:rgb(56,149,128);"/>
+<path d="M 25,42L 24,42L 24,43L 30,43L 30,42L 29,42L 29,41L 25,41Z" style="fill:rgb(56,149,128);"/>
+<path d="M 25,17L 25,16L 28,16L 28,15L 34,15L 34,14L 25,14L 25,15L 24,15L 24,17Z" style="fill:rgb(56,149,128);"/>
+<path d="M 28,84L 27,84L 27,95L 28,95L 28,89L 29,89L 29,85L 30,85L 30,84L 29,84L 29,83L 28,83Z" style="fill:rgb(56,149,128);"/>
+<path d="M 40,114L 40,111L 41,111L 41,100L 40,100L 40,101L 39,101L 39,114Z" style="fill:rgb(56,149,128);"/>
+<path d="M 40,117L 42,117L 42,111L 40,111Z" style="fill:rgb(56,149,128);"/>
+<path d="M 45,65L 45,63L 44,63L 44,62L 43,62L 43,61L 42,61L 42,60L 40,60L 40,61L 41,61L 41,62L 42,62L 42,63L 43,63L 43,64L 44,64L 44,65Z" style="fill:rgb(56,149,128);"/>
+<path d="M 46,81L 46,82L 45,82L 45,83L 49,83L 49,81Z" style="fill:rgb(56,149,128);"/>
+<path d="M 55,118L 56,118L 56,119L 57,119L 57,110L 56,110L 56,111L 55,111Z" style="fill:rgb(56,149,128);"/>
+<path d="M 56,53L 57,53L 57,54L 58,54L 58,50L 56,50Z" style="fill:rgb(56,149,128);"/>
+<path d="M 31,80L 30,80L 30,81L 29,81L 29,84L 30,84L 30,83L 31,83Z" style="fill:rgb(137,190,177);"/>
+<path d="M 46,107L 45,107L 45,113L 46,113Z" style="fill:rgb(137,190,177);"/>
+<path d="M 69,18L 63,18L 63,19L 69,19Z" style="fill:rgb(137,190,177);"/>
+<path d="M 63,45L 63,46L 70,46L 70,45Z" style="fill:rgb(137,190,177);"/>
+<path d="M 67,54L 66,54L 66,60L 67,60Z" style="fill:rgb(137,190,177);"/>
+<path d="M 79,1L 79,2L 85,2L 85,1L 84,1L 84,0L 81,0L 81,1Z" style="fill:rgb(137,190,177);"/>
+<path d="M 86,26L 85,26L 85,36L 86,36Z" style="fill:rgb(137,190,177);"/>
+<path d="M 34,76L 33,76L 33,77L 32,77L 32,78L 33,78L 33,79L 32,79L 32,80L 31,80L 31,81L 32,81L 32,80L 33,80L 33,79L 34,79Z" style="fill:rgb(179,210,203);"/>
+<path d="M 83,117L 82,117L 82,119L 80,119L 80,121L 82,121L 82,120L 83,120Z" style="fill:rgb(179,210,203);"/>
+<path d="M 87,2L 87,1L 88,1L 88,0L 84,0L 84,1L 85,1L 85,2Z" style="fill:rgb(179,210,203);"/>
+<path d="M 91,24L 89,24L 89,23L 86,23L 86,24L 85,24L 85,26L 86,26L 86,25L 88,25L 88,26L 89,26L 89,25L 91,25Z" style="fill:rgb(179,210,203);"/>
+<path d="M 27,88L 26,88L 26,95L 27,95Z" style="fill:rgb(102,173,155);"/>
+<path d="M 52,14L 52,15L 50,15L 50,16L 52,16L 52,17L 53,17L 53,16L 56,16L 56,15L 57,15L 57,14Z" style="fill:rgb(102,173,155);"/>
+<path d="M 61,14L 60,14L 60,13L 56,13L 56,14L 57,14L 57,15L 56,15L 56,17L 55,17L 55,18L 61,18L 61,19L 62,19L 62,17L 61,17Z" style="fill:rgb(102,173,155);"/>
+<path d="M 65,14L 65,13L 67,13L 67,12L 62,12L 62,13L 60,13L 60,14L 61,14L 61,15L 64,15L 64,14Z" style="fill:rgb(102,173,155);"/>
+<path d="M 69,107L 65,107L 65,109L 62,109L 62,111L 66,111L 66,109L 67,109L 67,108L 69,108Z" style="fill:rgb(102,173,155);"/>
+<path d="M 66,50L 65,50L 65,48L 64,48L 64,50L 63,50L 63,52L 64,52L 64,51L 66,51Z" style="fill:rgb(102,173,155);"/>
+</svg>
