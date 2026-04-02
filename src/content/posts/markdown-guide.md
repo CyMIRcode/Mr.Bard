@@ -2,7 +2,7 @@
 title: 像Mr.Bard一样度周末
 createdAt: 2023-12-20
 category: Mr.Bard
-tags: [Mr.Bard, 周末]
+tags: [Mr.Bard]
 summary: 在这个阳光明媚的周末，我决定以Mr.Bard的方式度过这个美好的日子。
 ---
 
