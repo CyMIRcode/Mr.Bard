@@ -1,6 +1,14 @@
 import { file, glob } from "astro/loaders";
-import { z } from "astro:content";
+import { reference, z } from "astro:content";
 import { defineCollection } from "astro:content";
+
+function slug() {
+  return z
+    .string()
+    .min(3)
+    .max(200)
+    .regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/i, "Invalid slug");
+}
 
 const posts = defineCollection({
   loader: glob({
@@ -42,6 +50,36 @@ const projects = defineCollection({
   }),
 });
 
+const categories = defineCollection({
+  loader: file("./src/content/miscs/categories.json"),
+  schema: ({ image }) =>
+    z.object({
+      name: z.string().max(32),
+      slug: slug(),
+      description: z
+        .string()
+        .max(512)
+        .optional()
+        .default("")
+        .describe("In markdown format"),
+      icon: z.string().optional().default("mdi:folder"),
+    }),
+});
+
+const tags = defineCollection({
+  loader: file("./src/content/miscs/tags.json"),
+  schema: z.object({
+    name: z.string().max(32),
+    slug: slug(),
+    description: z
+      .string()
+      .max(512)
+      .optional()
+      .default("")
+      .describe("In markdown format"),
+  }),
+});
+
 const friends = defineCollection({
   loader: file("./src/content/miscs/friends.json"),
   schema: z.object({
@@ -66,6 +104,8 @@ const pages = defineCollection({
 export const collections = {
   posts,
   projects,
+  categories,
+  tags,
   friends,
   pages,
 };
