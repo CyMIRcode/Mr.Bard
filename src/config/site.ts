@@ -14,11 +14,11 @@ const site = {
   // --- Navigation ---
   // subtitle: decorative label shown below the name (uppercase, small text)
   navigation: [
-    { name: "Home", subtitle: "Index", href: "/" },
+    { name: "首页", subtitle: "Index", href: "/" },
     { name: "写作", subtitle: "Blog", href: "/posts" },
     { name: "项目", subtitle: "Works", href: "/projects" },
     { name: "链接", subtitle: "Links", href: "/friends" },
-    { name: "About", subtitle: "Me", href: "/about" },
+    { name: "关于", subtitle: "Me", href: "/about" },
   ],
 
   // --- Social Links ---
@@ -29,19 +29,19 @@ const site = {
 
   // --- Homepage Hero ---
   hero: {
-    greeting: "Hello, I'm Mr.Bard",
+    greeting: "Hello！",
     // Supports HTML. Use <span class="font-medium text-foreground underline decoration-primary/30"> to highlight keywords
     description:
       '欢迎来到 "Mr.Bard 短篇故事集" Mr.Bard不是英雄，也不是天才，他只是一个试图用一本正经的逻辑去理解一个毫无逻辑的世界的人。如果你也曾有过类似的瞬间，那么，欢迎你加入我们，一同探索这个充满笨拙智慧的幽默世界。',
     cards: [
-      { icon: "mdi:explore", label: "Status", value: "Building something cool" },
-      { icon: "mdi:location", label: "Location", value: "Earth" },
+      { icon: "mdi:explore", label: "Status", value: "Round the world travel" },
+      { icon: "mdi:location", label: "Location", value: "Caribbean" },
     ],
   },
 
   // --- Footer ---
   footer: {
-    copyright: "© 2025 Breeze",
+    copyright: "© 2023 Mr.Bard",
     builtWith: "Built with Astro",
   },
 
