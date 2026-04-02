@@ -23,8 +23,15 @@
     {
     "id": "time",
     "name": "怀旧时空",
-    "description": "A minimal Astro theme",
+    "description": "怀旧的时间胶囊",
     "link": "https://time.idv.ng",
     "avatar": "/logo.svg"
-  }
+  },
+     {
+    "id": "bard",
+    "name": "Mr.Bard",
+    "description": "Mr.Bard 短篇故事集",
+    "link": "https://bard.idv.ng/",
+    "avatar": "/logo.svg"
+  } 
 ]
