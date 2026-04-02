@@ -6,4 +6,25 @@
     "link": "https://github.com",
     "avatar": "/logo.svg"
   }
+    {
+    "id": "idvng",
+    "name": "IDV.NG",
+    "description": "IDV.NG 数字群岛",
+    "link": "https://idv.ng",
+    "avatar": "/logo.svg"
+  }
+      {
+    "id": "gushi",
+    "name": "雅然丛刊",
+    "description": "解构经典 重塑价值",
+    "link": "https://gushi.idv.ng",
+    "avatar": "/logo.svg"
+  }
+    {
+    "id": "time",
+    "name": "怀旧时空",
+    "description": "A minimal Astro theme",
+    "link": "https://time.idv.ng",
+    "avatar": "/logo.svg"
+  }
 ]
