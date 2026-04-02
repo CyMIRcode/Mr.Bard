@@ -5,22 +5,14 @@ description: About this site and its author
 
 ## About Me
 
-Hello! I'm a developer who loves building things for the web.
+欢迎来到 《Mr.Bard 巴德先生的短篇故事集》
 
-I created this site using [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com), and I'm sharing it as a theme called **Breeze** so others can use it too.
+Mr.Bard不是英雄，也不是天才。他只是一个试图用一本正经的逻辑，去理解一个毫无逻辑的世界的人。他会为泡一杯完美的茶而制定出精密的计划，会因为一片落叶的轨迹而陷入长久的沉思。
 
-## Tech Stack
+我们相信，这种在“全力以赴”和“一败涂地”之间反复挣扎，本身就蕴含着一种深刻的喜剧感。它不是因为愚蠢而发笑，而是因为太过认真而显得格外滑稽；不是因为天真而可笑，而是因为这份天真在复杂世界里显得无比珍贵。
 
-- Astro + Tailwind CSS
-- TypeScript
-- Markdown / MDX
+在这个故事集里，你将跟随Mr.Bard，走进他那充满奇思妙想和日常灾难的世界。这里没有惊天动地的冒险，只有一次次“我尽力了”的尝试，和一个个“但生活就是这样”的结局。
 
-## What I Write About
+我们相信，每个人的心里，都住着一个Mr.Bard。
 
-- Web development tips and tutorials
-- Tools and workflows I find useful
-- Thoughts on technology and design
-
-## Contact
-
-Feel free to reach out through the social links below.
+如果你也曾有过类似的瞬间，如果你能从一塌糊涂中看到闪光点，那么，欢迎你。翻开这些故事，加入我们，一同探索这个充满笨拙智慧的幽默世界。
