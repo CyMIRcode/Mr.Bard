@@ -15,9 +15,9 @@ const site = {
   // subtitle: decorative label shown below the name (uppercase, small text)
   navigation: [
     { name: "Home", subtitle: "Index", href: "/" },
-    { name: "Writing", subtitle: "Blog", href: "/posts" },
-    { name: "Projects", subtitle: "Works", href: "/projects" },
-    { name: "Friends", subtitle: "Links", href: "/friends" },
+    { name: "写作", subtitle: "Blog", href: "/posts" },
+    { name: "项目", subtitle: "Works", href: "/projects" },
+    { name: "链接", subtitle: "Links", href: "/friends" },
     { name: "About", subtitle: "Me", href: "/about" },
   ],
 
@@ -98,7 +98,7 @@ const site = {
   // --- UI Labels ---
   // Customize these values to change the text displayed on pages
   labels: {
-    postsTitle: "写作",
+    postsTitle: "Writing",
     postsDescription: "Notes, thoughts, and technical musings",
     projectsTitle: "Projects",
     projectsDescription: "Small tools built for fun or to solve real problems.",
