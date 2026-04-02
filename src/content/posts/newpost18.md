@@ -1,5 +1,5 @@
 ---
-title: 当生活不再被算法拉伸，Mr. Bard与真实世界的笨拙重逢
+title: Mr. Bard与真实世界的笨拙重逢
 createdAt: 2026-02-10
 category: story
 tags: [life]
