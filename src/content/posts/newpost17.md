@@ -1,5 +1,5 @@
 ---
-title: 像Mr.Bard一样度周末
+title: Mr. Bard“斩杀线”惊魂记
 createdAt: 2026-01-21
 category: story
 tags: [life]
