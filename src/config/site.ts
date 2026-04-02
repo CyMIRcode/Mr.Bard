@@ -1,14 +1,14 @@
 const site = {
   // --- Site Metadata ---
   meta: {
-    title: "Breeze",
-    description: "A minimal Astro theme for personal websites",
-    author: "Your Name",
+    title: "Mr.Bard",
+    description: "Mr. Bard's collection of short stories",
+    author: "Mr.Bard",
     logo: "/logo.svg",
     ogImage: "/og-image.png",
     // HTML lang attribute, affects page language and date formatting
     // Options: "zh-CN", "en", "ja", etc.
-    lang: "en",
+    lang: "zh-CN",
   },
 
   // --- Navigation ---
