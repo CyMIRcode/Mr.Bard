@@ -1,12 +1,12 @@
 [
   {
-    "name": "Story",
+    "name": "story",
     "slug": "story",
     "description": "Mr. Bard's Story Collection",
     "icon": "mdi:code-tags"
   },
   {
-    "name": "News",
+    "name": "news",
     "slug": "news",
     "description": "Website News",
     "icon": "mdi:palette"
