@@ -7,18 +7,17 @@ const posts = defineCollection({
     pattern: "**/*.{md,mdx}",
     base: "./src/content/posts",
   }),
-  schema: ({ image }) =>
-    z.object({
-      title: z.string().max(128),
-      createdAt: z.coerce.date(),
-      updatedAt: z.coerce.date().optional(),
-      category: z.string(),
-      tags: z.array(z.string()).optional().default([]),
-      summary: z.string().optional().default(""),
-      cover: image().optional(),
-      draft: z.boolean().default(false),
-      new: z.boolean().default(false),
-    }),
+  schema: z.object({
+    title: z.string().max(128),
+    createdAt: z.coerce.date(),
+    updatedAt: z.coerce.date().optional(),
+    category: z.string(),
+    tags: z.array(z.string()).optional().default([]),
+    summary: z.string().optional().default(""),
+    cover: z.string().optional(),   // 改成普通 string，避免 image() 参数问题
+    draft: z.boolean().default(false),
+    new: z.boolean().default(false),
+  }),
 });
 
 const projects = defineCollection({
