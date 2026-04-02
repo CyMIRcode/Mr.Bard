@@ -1,6 +1,7 @@
 ---
 import Sidebar from "@/components/layout/Sidebar.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import site from "@/config/site"; // 1. 确保导入了 site 配置文件
 import type { HeadProps } from "@/types";
 
 type Props = HeadProps;
@@ -19,5 +20,9 @@ const head = Astro.props;
     >
       <slot />
     </main>
-  </div>
+  </div> 
+  <footer class="mt-6 w-full max-w-5xl text-center text-sm text-muted-foreground/60 pb-4">
+    <p>{site.footer.copyright}</p>
+    <p class="text-xs mt-1">{site.footer.builtWith}</p>
+  </footer>
 </BaseLayout>
