@@ -15,7 +15,7 @@ const site = {
   // subtitle: decorative label shown below the name (uppercase, small text)
   navigation: [
     { name: "首页", subtitle: "Index", href: "/" },
-    { name: "写作", subtitle: "Blog", href: "/posts" },
+    { name: "博客", subtitle: "Blog", href: "/posts" },
     { name: "项目", subtitle: "Works", href: "/projects" },
     { name: "链接", subtitle: "Links", href: "/friends" },
     { name: "关于", subtitle: "Me", href: "/about" },
