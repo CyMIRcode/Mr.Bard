@@ -1,6 +1,6 @@
 ---
 title: 纽约跨年：邂逅一场意外的浪漫
-createdAt: 2016-02-18
+createdAt: 2016-01-10
 category: story
 tags: [travel]
 summary: 在寒冷的冬日，我飞往纽约，迫不及待想在元旦之夜融入这座城市的跨年狂欢。
