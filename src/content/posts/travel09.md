@@ -1,5 +1,5 @@
 ---
-title: 失控的体温：一次“越界”的代价
+title: “越界”的代价
 createdAt: 2020-11-16
 category: story
 tags: [travel]
