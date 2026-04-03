@@ -1,5 +1,5 @@
 ---
-title: 冬日的象牙山：一场偶然的雪中邂逅
+title: 冬日的象牙山：不可言说的馈赠
 createdAt: 2016-02-12
 category: story
 tags: [travel]
