@@ -32,7 +32,7 @@ const site = {
     greeting: "Hello！",
     // Supports HTML. Use <span class="font-medium text-foreground underline decoration-primary/30"> to highlight keywords
     description:
-      '欢迎来到 "Mr.Bard 短篇故事集" Mr.Bard不是英雄，也不是天才，他只是一个试图用一本正经的逻辑去理解一个毫无逻辑的世界的人。如果你也曾有过类似的瞬间，那么，欢迎你加入我们，一同探索这个充满笨拙智慧的幽默世界。',
+      '欢迎来到 “Mr.Bard 短篇故事集” Mr.Bard不是英雄，也不是天才，他只是一个试图用一本正经的逻辑去理解一个毫无逻辑的世界的人。如果你也曾有过类似的瞬间，那么，欢迎你加入我们，一同探索这个充满笨拙智慧的幽默世界。',
     cards: [
       { icon: "mdi:explore", label: "Status", value: "Round the world travel" },
       { icon: "mdi:location", label: "Location", value: "Caribbean" },
