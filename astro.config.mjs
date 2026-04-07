@@ -7,6 +7,8 @@ import icon from "astro-icon";
 import expressiveCode from "astro-expressive-code";
 import sitemap from "@astrojs/sitemap";
 
+import cloudflare from "@astrojs/cloudflare";
+
 // https://astro.build/config
 export default defineConfig({
   // IMPORTANT: Change this to your deployed site URL
@@ -48,4 +50,6 @@ export default defineConfig({
       cssVariable: "--font-display",
     },
   ],
+
+  adapter: cloudflare(),
 });
